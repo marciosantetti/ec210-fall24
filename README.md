@@ -1,5 +1,7 @@
 # EC 210: Principles of Macroeconomics, Fall 2024
 
+<br>
+
 Welcome to EC 210: Principles of Macroeconomics!<br>
 *Fall 2024 - Dr. Marcio Santetti - [Marlboro Institute for Liberal Arts & Interdisciplinary Studies ](https://emerson.edu/academics/schools-labs-and-centers/marlboro-institute), [Emerson College](https://www.emerson.edu/)*
 
