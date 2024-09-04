@@ -27,6 +27,10 @@ author:
 
 ## About you
 
+<br>
+
+. . .
+
 Suggested topics:
 
   - Preferred [name/pronouns]{.note}
@@ -62,7 +66,7 @@ Suggested topics:
 
 <br>
 
-- On the [course website]{.note}, you will find [all lecture materials]{.hi-purple}.
+- On the [course website]{.note}, you will find [all lecture materials]{.hi-purple} and [all assignment descriptions]{.hi-green}.
 
 . . .
 
@@ -70,13 +74,39 @@ Suggested topics:
 
 - On [Canvas]{.note}, you will submit/do [all assignments]{.hi}.
 
-    - Quizzes, Mini Projects, etc.
+    - Quizzes, Mini Projects, Fall newsletter, etc.
     - There, you can also check your [attendance]{.hi-blue}.
   
   
   
 
+# TODO {background-color="#62259D"}
+
+## TODO
+
+[Two]{.hi} assignment due next Tuesday (09/10), before class:
+
+
+  - *Knowing you better*;
+  - *Syllabus Quiz*.
+
   
+
+
+
+Find both on [Canvas]{.note}.
+
+. . .
+
+<br>
+
+- Recommended podcast listening:
+
+  - [*Rethinking the AI boom, with Daron Acemoğlu*](https://www.ft.com/content/e865a777-501a-4417-839e-dffd4b5206e7) ([The Economics Show]{.note} with Soumaya Keynes podcast)
+  - Also available on Spotify, Apple podcasts, etc.
+
+
   
+# Next time: Macroeconomics & well-being {background-color="#62259D"}
   
   
