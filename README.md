@@ -46,3 +46,5 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 <br>
 
   - `Fall newsletter assignment description` (coming soon)
+
+<br>
