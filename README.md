@@ -21,7 +21,7 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
 **000: Course Logistics**
 
-  - Slides: [`html`]() | [`pdf`]()
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec210-fall24/main/lectures/000-logistics/000-logistics.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec210-fall24/main/lectures/000-logistics/000-logistics.pdf)
 
 <br>
 
