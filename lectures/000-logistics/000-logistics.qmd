@@ -1,0 +1,82 @@
+---
+title: "This course and other animals"
+subtitle: "Introduction to Macroeconomics // Fall 2024"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+
+
+# Welcome! {background-color="#62259D"}
+
+## About prof. Santetti
+
+<br><br>
+
+  - Pronouns: *he/him/his*
+  - [How long]{.note} in this gig?
+  - Teaching [experience]{.note}
+  - [Research]{.note} fields
+
+
+## About you
+
+Suggested topics:
+
+  - Preferred [name/pronouns]{.note}
+  - Prospective/actual [major(s)]{.note}?
+  - Any [familiarity]{.note} with the subject?
+  - Favorite [cereal]{.note}?
+  
+# Why this course matters
+
+
+# Our places {background-color="#62259D"}
+
+
+## Canvas
+
+<br>
+
+  - [**EC 210--01 Canvas**](https://canvas.emerson.edu/courses/2039584)
+  - [**EC 210--02 Canvas**](https://canvas.emerson.edu/courses/2039585)
+
+
+
+## Course website
+
+
+<br>
+
+[**Principles of Macroeconomics, Fall 2024**](https://github.com/marciosantetti/ec210-fall24/blob/main/README.md)
+
+
+
+## Summing up
+
+<br>
+
+- On the [course website]{.note}, you will find [all lecture materials]{.hi-purple}.
+
+. . .
+
+<br>
+
+- On [Canvas]{.note}, you will submit/do [all assignments]{.hi}.
+
+    - Quizzes, Mini Projects, etc.
+    - There, you can also check your [attendance]{.hi-blue}.
+  
+  
+  
+
+  
+  
+  
+  

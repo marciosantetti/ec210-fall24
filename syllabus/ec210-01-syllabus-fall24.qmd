@@ -1,0 +1,276 @@
+---
+title: "**EC 210--01: Principles of Macroeconomics**"
+subtitle: "Fall 2024 -- Course Syllabus"
+author: "Marlboro Institute for Liberal Arts & Interdisciplinary Studies | Emerson College"
+format:
+  pdf: 
+    pdf-engine: pdflatex
+    documentclass: article
+    toc: false
+    number-sections: false
+    geometry:
+      - top=35mm
+      - bottom=35mm
+      - left=25mm
+      - right=25mm
+      - heightrounded
+    colorlinks: true
+    linestretch: "1"
+    # fontfamily: libertine
+    header-includes: |
+      \usepackage{fontawesome}
+      \usepackage[T1]{fontenc}
+      \usepackage{newpxtext,eulerpx}
+---
+
+------------------------------------------------------------------------
+
+
+\vspace{.4cm}
+
+
+
+\begin{tabular}{ll|l} 
+	\textbf{When:} & \multicolumn{2}{l}{TuTh 12:00--1:45 PM} \\
+	\textbf{Where:} & \multicolumn{2}{l}{Little Building 240} \\
+	\textbf{Who:} & \, \faMortarBoard \,  Marcio Santetti, Ph.D. (\textit{he/him}) & \, \faEnvelopeO \, \href{mailto:marcio.santetti@emerson.edu}{\texttt{marcio.santetti@emerson.edu}} \\
+  \textbf{Office hours:} & \, \faHourglassHalf \, Tuesdays 2:00--3:30 PM & \, \faUniversity \, Walker 416C \\
+  & \, \faHourglassHalf \, Thursdays 2:00--3:30 PM$^*$ & \,  \\
+  \textbf{Web:} & \, \faPencil \, \href{https://github.com/marciosantetti/ec210-fall24/blob/main/README.md}{\texttt{Course website}} \\
+  \end{tabular}
+
+$^*$ _Except on Institute/Faculty meeting days._
+
+------------------------------------------------------------------------
+
+
+# Overview
+
+As per the course catalog description, this course introduces and focuses on the essential concepts and principles of macroeconomics. It studies approaches to the allocation of resources under scarcity through decisions made by nations, such as taxation, fiscal and monetary policy and trade. Students will examine, understand, and prioritize decisions and behaviors that affect many resources, whether financial, environmental, or human. 
+
+Studying Macroeconomics provides a unique lens for better understanding reality. Rather than making students "think like an economist," this course has the (macro)economy as its subject matter, allowing for a healthy feedback between our own perspectives and economic issues. Focusing on the *philosophy*, *values*, and *real-world* applications of macroeconomics, lectures will progressively build a comprehensive understanding of the main macroeconomic issues faced by capitalist economies. 
+
+This course supports the [`Economics minor`](https://catalog.emerson.edu/preview_program.php?catoid=7&poid=315&hl=%22EC+210%22&returnto=search) and is included in the [`Business of Creative Enterprises major`](https://catalog.emerson.edu/preview_program.php?catoid=7&poid=379&hl=%22EC+210%22&returnto=search). In this spirit, emphasis will be given to developing instructor's and students' *critical thinking*, use of *empirical evidence*, stimulating *creative writing*, and assessing learning through *diverse formats*.
+
+Finally, this course is also part of the College's Social/Psychological Perspective. Learning macroeconomics provides a deeper view of *human behavior*, and how the latter influences *individual*, *collective*, and *institutional decision-making*.
+
+# Course Content Organization
+
+Lecture notes and assignments will be posted on the [`Course website`](https://github.com/marciosantetti/ec210-fall24/blob/main/README.md). Students are strongly encouraged to **bookmark this page**, as it will be constantly updated throughout the semester. Additional readings, answer keys, and other files will be uploaded to `Canvas`. Students will also use `Canvas` to submit all assignments.
+
+# Student Learning Outcomes
+
+
+
+At the completion of the course, students will be able to:
+
+1. Understand the main macroeconomic aggregates;
+
+2. Intelligently read macroeconomics-related news in different media outlets;
+
+3. Develop critical thinking about macroeconomic problems.
+
+
+
+# Main References
+
+We have one required textbook:
+
+* N. Goodwin at al., *Macroeconomics in context*, 4th edition, Routledge, 2022.
+
+The most affordable option is its eBook version, available at the [`Routledge website`](https://www.routledge.com/Macroeconomics-in-Context/Goodwin-Harris-Nelson-Rajkarnikar-Roach-Torras/p/book/9781032170374) (including rental alternatives).
+
+Some additional references are listed below, although not required:
+
+  - Ha-Joon Chang, *Economics: The user's guide*, Pelican Books, 2014.
+  - J. Reardon et al., *Introducing a new Economics: Pluralist, sustainable & progressive*, Pluto Press, 2018.
+
+
+\bigskip
+
+Finally, students are *strongly* encouraged to read (trustworthy) news articles on a daily basis. Keeping up with news on *The New York Times*, *The Economist*, *Wall Street Journal*, *Financial Times*, *Project Syndicate*, among others, will offer a much richer experience combining the principles studied in class and what is going on in the real world. Feel free to *share* any news article(s) you've read and that could add value to the entire classroom.
+
+# Communication
+
+The *only* means of communicating with Prof. Santetti outside of classroom/office hours is by *email*. All education institutions love sending emails, flooding our inboxes with new messages every day. In order to address class concerns more easily, students are asked to put the course name and section in square brackets in the email subject. For example, "*[EC 210--01] Question about class XYZ*."
+
+I reserve the right to *ignore* emails that do not follow the guidelines outlined above.
+
+
+# Assignments, Exams, Grading, etc.
+
+
+## Graded assignments 
+
+  * ***Online quizzes*** (20%): Students will come to class better prepared and acquainted with new topics by completing online quizzes. These will consist of True/False and multiple-choice questions, due **before Tuesday lectures** (11:59 AM) and will be based off of previously recommended reading/listening/watching assignments. These may include (*i*) news articles, (*ii*) policy statements, (*iii*) podcast episodes, (*iv*) brief videos, etc. New quizzes will be announced *one week in advance*, and students will complete them on `Canvas`.
+  
+  * ***Mini Projects*** (50%): Throughout the term, students will be given *three* (3) projects. These will involve individual and group work, discussing different macroeconomic issues. Each project will be discussed in detail in class, and students will have the opportunity to present their work in different ways (e.g., podcasts, videos, interviews, written essays, etc.). Mini Projects will bridge class content and real-world applications, as well as allowing students to express themselves in their preferred way. Lastly, projects from previous semesters will be shared with students for reference and inspiration. 
+
+  * ***Fall newsletter*** (30%): This semester-long project will involve the creation of a student-tailored newsletter. This is a fully *student-led* project, where they assign different roles as tasks in order to produce a comprehensive document (between 5 and 10 pages) including news, students/faculty spotlights, and opinionated editorials on macroeconomic topics. There will be several checkpoints over the semester in order to evaluate its progress. More information about this assignment will be given in a separate document. 
+
+
+
+
+## Attendance and late policies
+  
+  * Attendance and participation: One letter grade deduction if you miss more than **three** (3) meetings. By missing any additional meetings, you will lose a partial letter grade. If you expect to miss more than three meetings, get in touch with the [`Office of Student Success`](https://emerson.edu/departments/student-success).
+  
+  * Coming to class late will count as half of an absence.
+  
+  * Late assignment submissions will have a grade deduction of at least 50%, increasing by 10 additional percentage points per day.
+
+***Important note***: For *any* assignment, if an answer contains a direct "Copy+Paste" from the lecture notes, or if it is copied from someone (or something) else's work, **no credit will be given**. 
+
+\bigskip
+
+## AI, Academic Integrity, & the BS word
+
+While using Large Language Models (LLMs) may be helpful in some contexts, I highly recommend *not using* `ChatGPT` or similar LLMs in this course. Using LLMs and Artificial Intelligence to generate a reflection on course readings or to generate an assignment answer sheet will not help you think through the materials. You can create text, meet a suggested word count, and finish an assignment, but the text will be *meaningless.* There is an official philosophical term for this kind of writing: *bullshit*. (Hicks, Humphries, and Slater 2024; Frankfurt 2005).^[ Hicks, Michael Townsen, James Humphries, and Joe Slater. 2024. “ChatGPT Is Bullshit.” *Ethics and Information Technology* 26 (2): 38. [`https://doi.org/10.1007/s10676-024-09775-5`](https://doi.org/10.1007/s10676-024-09775-5). \newline Frankfurt, Harry G. 2005. *On Bullshit*. Princeton: Princeton University Press.]
+
+The point of writing is to help crystalize your thinking. Chugging out words that make it look like you read and understood the articles will not help you learn.^[This section's  first two paragraphs were adapted from [`Andrew Heiss`](https://www.andrewheiss.com/).]
+
+An effective learning experience depends upon the ability of members of the academic community to trust one another and to trust the integrity of work that is submitted for academic credit. Such an atmosphere of mutual trust fosters the free exchange of ideas and enables all members of the community to achieve their highest potential.
+
+In all academic work, the ideas and contributions of others must be appropriately acknowledged and work that is presented as original must be, in fact, original. Using an AI-content generator to complete coursework without proper attribution or authorization is a form of academic dishonesty. If you are unsure about whether something may be plagiarism or academic dishonesty, please contact the instructor to discuss the issue. 
+
+
+\bigskip
+
+## Class Policies
+
+**You can expect me to**:
+
+* Grade and provide feedback on assignments and exams within one week from the due date;
+
+* Reply to emails/messages within 24 hours during the week and within 48 hours on weekends and holidays;
+
+  * *I do not reply to emails on weekends. Use them to relax!*
+  
+* Hold weekly office hours, where students can ask every question and talk about any issues/concerns relative to our course;
+
+* Ignore emails/requests asking for any grade alteration by the end of the semester.
+
+
+\bigskip
+
+
+**I expect students to**:
+
+* Come to class on time;
+
+* Respectfully participate in in-class discussions and activities;
+
+* Stay in the classroom during the *entire* lecture---we will take a bathroom/snack break every class;
+
+* Keep phones away through the duration of class---computers are welcome, but refrain
+from using them for anything but activities related to the class;
+
+
+* Immediately notify me in the event of an emergency that prevents you from following/completing the course.
+
+
+
+\bigskip
+
+
+# Letter Grade Distribution
+
+***Performance***                                   ***Letter Grade***
+-------------------------------        -----------------------------------------------
+Excellent, superior performance                 *A* (93--100\%), *A-* (90--92.9\%)
+Good performance                                *B+* (87--89.9\%), *B* (83--86.9\%), *B-* (80--82.9\%)
+Standard performance                            *C+* (77--79.9\%), *C* (73--76.9\%), *C-* (70--72.9\%)
+Substandard performance                         *D* (60--69.9\%)
+Unsatisfactory performance                      *F* (0--59.9\%)
+----------- -------------------        -----------------------------------------------
+
+
+\bigskip
+
+# Important Dates
+
+* **Sep 4**: Classes begin
+* **Sep 17**: Last day to add/drop classes
+* **Nov 15**: Last day to withdraw from a Fall class
+* **Nov 27--29**: Thanksgiving break
+* **Dec 12**: Fall newsletter due date
+* **Dec 17**: Last day of classes
+
+Access the full 2024--2025 Academic Calendar [`here`](https://emerson.edu/academics/academic-calendars/2024-2025-academic-calendar).
+
+
+
+# Tentative Course Schedule
+
+This is a *high-level* tentative schedule. Reading/listening/watching assignments will be detailed in class prior to starting a new topic.
+
+\bigskip
+
+* **Week 1**: Course introduction & logistics.
+
+* **Week 2**: Macroeconomics and well-being.
+
+* **Week 3**: Macroeconomic measurement: The current approach.
+
+* **Week 4**: Macroeconomic measurement: Environmental & social dimensions.
+
+* **Week 5**: The structure of the U.S. economy.
+
+* **Week 6**: (Un)employment and wages I.
+
+* **Week 7**: (Un)employment and wages II.
+
+* **Week 8**: Inflation I.
+
+* **Week 9**: Inflation II.
+
+* **Week 10**: The FED and monetary policy.
+
+* **Week 11**: Government and fiscal policy.
+
+* **Week 12**: Inequality I.
+
+* **Week 13**: Inequality II.
+
+* **Week 14**: Deficits and debt.
+
+* **Week 15**: Long-run economic growth.
+
+* **Week 16**: Course wrap-up & review.
+
+
+# Important Note
+
+This syllabus is meant to serve as an outline and guide for our course. Please note that I may modify it with reasonable notice to you. I may also modify the Course Schedule to accommodate our course needs.
+
+\newpage
+
+
+# Institutional Policies and Procedures
+
+## Support for Individuals Impacted by Discrimination, Harassment, or Sexual Violence
+
+If you have been impacted by discrimination, harassment, or sexual violence, the Office of Equal Opportunity (`oeo@emerson.edu`; 617-824-8999) is available to meet with you and discuss options to address concerns and to provide you with support resources. Please note that because the instructor is an Emerson employee, any information shared related to discrimination, harassment, or sexual violence will also be shared with the Office of Equal Opportunity. If you would like to connect with a confidential resource, please contact the Healing & Advocacy Collective (`advocate@emerson.edu`, 617-824-8857), the Emerson Wellness Center (`emersonwellnesscenter@emerson.edu`, 617-824-8666), or the Center for Spiritual Life (`spiritual_life@emerson.edu`, 617-824-8036).
+
+## Support for Students with Disabilities
+
+Emerson is committed to providing equal access and support to students with disabilities, through the provision of reasonable accommodations, to allow them to fully participate in Emerson programs and activities. If you have a disability that may require accommodations, please contact Student Accessibility Services (`SAS@emerson.edu`; 617-824- 8592) to make an appointment with an SAS staff member.
+
+Students are encouraged to contact SAS early in the semester. Please be aware that accommodations are not applied retroactively.
+
+## Plagiarism
+
+It is the responsibility of all Emerson students to know and adhere to the College’s policy on plagiarism, which can be found at the [`Plagiarism Policy`](https://emerson.edu/policies/plagiarism). If you have any questions concerning the Emerson plagiarism policy or about documentation of sources in work you produce in this course, speak to your instructor. Additionally, The Working with Research and Avoiding Plagiarism (WRAP) Quiz is available to all students through the [`Writing and Academic Resource Center's self-enrollment Canvas course`](https://sso-cedf2f54.sso.duosecurity.com/saml2/sp/DI4YHEUG45IY7WRZE988/sso?SAMLRequest=fZJNTwIxEIbv%2FopN790vliw0QILgxyaoBFCjF1O6s9hkt8VOi%2Frv7S4a9cKxM%2FPOM%2FNOR8ibes%2Bmzr6qFbw5QBt8NLVC1iXGxBnFNEeJTPEGkFnB1tObBUvDmO2NtlromvyRnFZwRDBWakWCYj4mL4NS9IZZP6c5lCnNoOzRbTWMaZ5tYZBUcSrimAQPYNBrxsS38EJEB4VCy5X1oTjNaJzTXrJJcpYkLO09k2Du95CK2071au0eWRQhaiqgrNKqn4X%2BEZZOIwhnpP0MhW6idv40wn00L7Kn64v7q6xfPOWPq%2BeL4WDQykkw%2FVlgphW6BswazEEKuF8tfkGCqwPHEHwatQqhdFGtd1J1ABIsv207l6qUanfase2xCNn1ZrOky7v1hkxGbR%2FW%2BWAmLdQzf2DSG2OcsM7A706j6K9idLz5rWcV86WupfgMLrVpuD09ShuRJa26UmYNVyhBWW9KXev3mQFuYUw8HUg0OSL%2F%2F6zJ2Rc%3D). One-on-one consultations are available.
+
+## Equity, Access, and Social Justice
+
+Equity, Access, and Social Justice (EASJ) are core values and commitments of Emerson College. Diversity of identity, thought, lived experience, languages, and perspective is valued in our community, and we are committed to productive learning environments that respect and celebrate our differences. The instructor will make every effort to ensure that an inclusive environment exists for all students.
+
+If you have concerns or general comments about what Emerson can do to create more inclusive classroom environments, you may share your suggestions with [`Dr. Tuesda Roberts`](mailto:tuesda_roberts@emerson.edu), Director for Faculty Development and Diversity.
+
+If you have any concerns or suggestions for improving how Emerson approaches equity, access, and social justice as an institution, please do not hesitate to contact the Social Justice Collaborative (`sjc@emerson.edu`, 617-824-8528).
+
+
+## Class Recording
+
+No one may record any part of this class unless the faculty member has given them express permission to do so. Students who require that a class be recorded due to a disability should work with Student Accessibility Service (SAS) to receive an accommodation for that recording. This class is considered a private environment and it is a setting in which copyrighted materials, creative works and educational records may be displayed. Audio or video recording, photographing, transmitting, or publishing the images of those materials or educational records without expressed consent is strictly prohibited. Any student who records a class without the faculty's permission without a registered accommodation will be referred to the Office of Community Standards. Accommodations for recording a class will be honored by your instructor.
