@@ -8,8 +8,8 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
 <br>
 
-  - [EC 210&mdash;01 Syllabus]()
-  - [EC 210&mdash;02 Syllabus]()
+  - [EC 210&mdash;01 Syllabus](https://raw.githack.com/marciosantetti/ec210-fall24/main/syllabus/ec210-01-syllabus-fall24.pdf)
+  - [EC 210&mdash;02 Syllabus](https://raw.githack.com/marciosantetti/ec210-fall24/main/syllabus/ec210-02-syllabus-fall24.pdf)
 
 <br>
 
@@ -19,7 +19,7 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
 <br>
 
-**001: Course Logistics**
+**000: Course Logistics**
 
   - Slides: [`html`]() | [`pdf`]()
 
