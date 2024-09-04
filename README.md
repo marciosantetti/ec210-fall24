@@ -36,6 +36,8 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
   - `Mini Project 1` (coming soon)
 
 
+<br>
+
 ### Fall newsletter
 
 <br>
