@@ -48,3 +48,11 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
   - `Fall newsletter assignment description` (coming soon)
 
 <br>
+
+## Additional resources
+
+<br>
+
+- [`The A to Z of economics, by The Economist`](https://www.economist.com/economics-a-to-z)
+
+<br>
