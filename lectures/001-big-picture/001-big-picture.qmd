@@ -127,7 +127,7 @@ Consider the following activities for a "toy" economy in 2023:
 | Amazon stocks     |  10   |  10      |
 | Neighbor babysitting   | 7    |   3     |
 | Imported beer/wine   | 8    |    2    |
-| Used cars   | 6    |        |25
+| Used cars   | 6    |   25     |
 | Machine maintenance   | 4    |   8     |
 | Car engines (for new cars)   | 2    |    9    |
 | Drug trafficking   | 10    |   10     |
