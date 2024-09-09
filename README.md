@@ -28,7 +28,7 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
 <br>
 
-**001**: Macroeconomics & well-being I
+**001: Macroeconomics & well-being I**
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec210-fall24/main/lectures/001-big-picture/001-big-picture.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec210-fall24/main/lectures/001-big-picture/001-big-picture.pdf)
 
