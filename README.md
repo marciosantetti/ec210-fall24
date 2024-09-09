@@ -28,6 +28,12 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
 <br>
 
+**001**: Macroeconomics & well-being I
+
+  - Slides: [`html`]() | [`pdf`]()
+
+<br>
+
 ## Assignments
 
 <br>
@@ -36,7 +42,7 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
 <br>
 
-  - `Mini Project 1` (coming soon)
+  - [`Mini Project 1`](https://raw.githack.com/marciosantetti/ec210-fall24/main/mini-projects/mp1-fall24.pdf) (due 10/03, 11:59 AM)
 
 
 <br>
