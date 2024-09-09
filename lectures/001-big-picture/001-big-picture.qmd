@@ -1,0 +1,477 @@
+---
+title: "Macroeconomics & well-being I"
+subtitle: "Introduction to Macroeconomics // Fall 2024"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+
+# Readings {background-color="#62259D"}
+
+
+## Readings
+
+**Required readings**:
+
+
+  - [Macroeconomics in Context, 4th ed.]{.note}
+    - Chapter 4, sections 1&mdash;3.
+    
+<br>
+
+**Recommended readings**:
+
+  - [Economics: The user's guide]{.note}
+    - Chapter 6.
+    - [Iwasaki Library access here](https://libcat.emerson.edu/Record/in00000385002)
+
+
+## Words of the day
+
+<br><br>
+
+  - Final;
+  
+  - GDP.
+
+# The big picture {background-color="#62259D"}
+
+
+
+## The big picture
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- [Where would you rather live?]{.note}
+
+:::
+
+::::
+  
+  
+## The big picture
+
+<br>
+
+[Macroeconomics]{.hi} gravitates around [three]{.hi-purple} main elements:
+
+. . .
+
+  - A measure of [production/income]{.note};
+  
+. . .
+
+  - A measure for [labor markets]{.note};
+  
+. . .
+
+  - A measure for the [price level]{.note}.
+
+
+## The big picture
+
+
+As social scientists, economists make sense of [fuzzy]{.note} information by using [aggregate<sup>1</sup> statistics<sup>2</sup>]{.hi-green}.
+
+. . .
+
+  <sup>1</sup> *[Aggregate]{.green}: sum.*
+  
+. . .
+
+  <sup>2</sup> *[Statistic]{.green}: a measure describing a population of interest. Generally derived from samples.*
+
+
+. . .
+
+<br>
+
+We will study [different]{.blue} economic statistics describing the same element, with the [most popular]{.hi-purple} ones being:
+
+. . .
+
+  - The **Gross Domestic Product** (GDP) for production/income;
+  
+  - The **unemployment rate** for labor markets;
+  
+  - The **Consumer Price Index** (CPI) for the price level.
+
+
+
+## The big picture
+
+<br><br>
+
+Let us start with the [Gross Domestic Product]{.hi} (GDP), the *leading* measure of a country's overall economic *performance* and *size.*
+
+
+# The size of an economy {background-color="#62259D"}
+
+## The size of an economy
+
+Consider the following activities for a "toy" economy in 2023:
+
+| ACTIVITY | QUANTITY| PRICE
+|----------|---------:|-------:|
+| New cars    | 5    |   30     |
+| Amazon stocks     |  10   |  10      |
+| Neighbor babysitting   | 7    |   3     |
+| Imported beer/wine   | 8    |    2    |
+| Used cars   | 6    |        |25
+| Machine maintenance   | 4    |   8     |
+| Car engines (for new cars)   | 2    |    9    |
+| Drug trafficking   | 10    |   10     |
+| Snow plowing   | 15    |    5    |
+
+: A "Toy" economy {tbl-colwidths="[75,25,25]"}
+
+. . .
+
+
+
+[Q]{.note}: How would you measure the [size]{.note} of this economy?
+
+
+## The size of an economy
+
+<br>
+
+![](kuznets.png){fig-align="center" width="900" height="500"}
+  
+## The size of an economy
+
+<br><br>
+
+[Q]{.note}: What is the [size]{.hi-purple} of the U.S. economy?
+
+. . .
+
+[A]{.note}: As of the second quarter of 2024 (2024Q2), its size, measured by its [Gross Domestic Product]{.hi-green} (GDP), is of US$ [28.65 trillion]{.note}.
+
+. . .
+
+<br>
+
+  - What does that mean?
+
+
+## The size of an economy
+
+According to the [U.S. Bureau of Economic Analysis]{.purple}:
+
+  - A country's [Gross Domestic Product]{.hi-green} (GDP) is a measure of the *total market value of final goods and services newly produced within a country’s borders over a period of time (usually one year)*.
+
+. . .
+
+<br>
+
+Lots of things to make sense of:
+
+. . .
+
+  - *Market value*?
+  
+  - *Final goods and services*?
+  
+  - *Within a country's borders*?
+
+
+## The size of an economy
+
+
+<br>
+
+As described by the economist [*Diane Coyle*](https://en.wikipedia.org/wiki/Diane_Coyle):
+
+
+> *"Everything from nails to toothbrushes, tractors, shoes, haircuts, management consultancy, street cleaning, yoga teaching, plates, bandages, books, and the millions of other services and products in the economy."*
+
+
+
+  
+# Pop quiz
+
+## Pop quiz
+
+[True or False?]{.hi-purple}
+
+. . .
+
+
+
+1. If a *Japanese* firm provides a consulting service in the U.S., expenditures on that service will count towards the Japanese *Gross Domestic Product* (GDP).
+
+. . .
+
+2. If one purchases flour for baking at home, the value of this sale will be counted towards GDP.
+
+. . .
+
+3. If a bakery buys flour to bake its goods, this flour purchase will be counted towards GDP.
+
+. . .
+
+4. If you buy an used car this year, this purchase will be part of this year's GDP.
+
+. . .
+
+5. Your grandfather just won US$5 million in the lottery! Thus, 5 million more to this year's GDP.
+  
+
+## Pop quiz
+
+[Which of the following will be part of U.S. GDP?]{.hi-purple}
+
+. . .
+
+1. A dealer sells US$500 worth of illegal heroin.
+
+. . .
+
+2. Subaru builds a new plant in Detroit.
+
+. . .
+
+3. You buy an used copy of *Lord of the Rings*.
+
+. . .
+
+4. You buy a new issue of Joy Division's *Unknown Pleasures* LP.
+
+. . .
+
+5. A US company located in Prague sells US$80 thousand worth of its product in the local market.
+
+. . .
+
+6. You spend the weekend mowing your lawn.
+
+. . .
+
+7. You buy a ticket to a concert in NYC, but you are not able to make it.
+
+# Measuring GDP {background-color="#62259D"}
+
+## Measuring GDP
+
+The federal agency responsible for compiling data and computing GDP in the United States is the [*Bureau of Economic Analysis*](https://www.bea.gov/).
+
+. . .
+
+In order to make GDP accounting as standardized and comparable as possible across different countries, agencies adopt similar [national income accounting]{.hi-purple} conventions.
+
+. . .
+
+In the U.S., this is done by the [National Income and Product Accounts (NIPA)]{.hi-orange}.
+
+. . .
+
+The first important convention concerns [*who*]{.hi} matters for macroeconomic analysis.
+
+. . .
+
+These are:
+
+  - Households;
+  - Businesses (firms);
+  - Governments;
+  - The foreign sector.
+
+
+
+## Measuring GDP
+
+<br>
+
+[Households]{.hi-blue} and [businesses]{.hi-red} form the [private]{.hi-purple} sector.
+
+. . .
+
+  - Businesses include for-profit firms and certain business-serving nonprofit organizations (e.g., chambers of commerce).
+  
+. . .
+
+  - Other nonprofit organizations (universities, hospitals, museums, unions, charities) are not considered as businesses by the BEA.
+  
+
+
+
+## Measuring GDP
+
+<br>
+
+[Governments]{.hi-blue} are part of the [public]{.hi-orange} sector.
+
+. . .
+
+It includes all *three* instances of government (federal, state, local).
+
+## Measuring GDP
+
+<br>
+
+[The rest of the world]{.hi-blue} comprehends the *foreign sector*.
+
+. . .
+
+It includes all *entities*—household, nonprofit, business, or government—located outside the borders of the country one is analyzing.
+
+
+## Measuring GDP
+
+After being introduced to the main [macroeconomic agents]{.hi-green}, we can look more closely to how GDP is calculated.
+
+. . .
+
+There are a few different [approaches]{.hi-purple}:
+
+. . .
+
+  - The [spending]{.hi} approach;
+  
+  - The [income]{.hi-slate} approach;
+  
+  - The [value-added]{.hi-orange} approach.
+  
+. . .
+
+<br>
+
+Let us talk about these.
+
+
+## Measuring GDP
+
+
+
+
+## Measuring GDP
+
+
+[The spending approach]{.note}:
+
+
+$$
+GDP = C + I + G + (X - M)
+$$
+
+<br>
+
+. . .
+
+From the perspective of what each agent [spends on goods and services]{.hi-slate} in a given period, GDP calculated by the [spending approach]{.note} is composed of:
+
+
+. . .
+
+  - Aggregate [consumption]{.hi} (*C*);
+  
+  - Aggregate private [investment]{.hi-slate} (*I*);
+  
+  - Aggregate [government expenditures]{.hi} (*G*);
+  
+  - The [trade balance]{.hi-slate} (*X - M*).
+
+
+## Measuring GDP
+
+<br>
+
+[Aggregate consumption]{.hi} accounts for all household consumption expenditures on final goods and services.
+
+. . .
+
+  - Household appliances, haircuts, concert tickets, groceries,...
+
+. . .
+
+
+<br>
+
+It usually accounts for about [2/3]{.note} of total GDP.
+
+
+
+## Measuring GDP
+
+<br>
+
+[Aggregate investment]{.hi-slate} accounts for businesses purchasing new machinery, new software, new plants, as well as household residential investment.
+
+  - It also includes changes in [*inventories*]{.red}:
+  
+    &rarr; *unsold* output produced in the reference year.
+
+
+
+## Measuring GDP
+
+<br>
+
+[Government expenditures]{.hi} account for federal, state, and local instances consumption and investment decisions.
+
+  - Building highways, new schools, military spending, health & education,...
+  
+
+
+. . .
+
+[Note]{.note}: Unemployment and veteran benefits, as well as social security payments are **not** included. 
+
+  &rarr; These are transfers that will likely be spent on *consumption.*
+
+
+
+## Measuring GDP
+
+Lastly, a country's [trade balance]{.hi} is the difference between its [Exports]{.hi-blue} (*X*) and its [Imports]{.hi-red} (*M*).
+
+. . .
+
+Then, a country's [net exports]{.hi-slate} (*X - M*) is the difference between *domestically* produced goods that a country sells abroad and goods and services produced *in other countries* that residents of another country purchase. 
+
+. . .
+
+<br>
+
+  - What happens if a country *exports* more than it imports?
+  
+. . .
+
+  - What about countries that *import* more than they export?
+  
+
+## Measuring GDP
+
+From the [spending approach]{.hi-slate} GDP measurement:
+
+<br>
+
+
+$$
+GDP = C + I + G + (X - M)
+$$
+
+
+<br>
+
+- What spending is made by the *private* sector?
+
+- By the *government* sector?
+
+- By the *foreign* sector?
+
+
+
+# Next time: More on GDP {background-color="#62259D"}
+

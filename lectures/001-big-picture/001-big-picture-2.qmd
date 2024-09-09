@@ -1,0 +1,45 @@
+---
+title: "Macroeconomics & well-being II"
+subtitle: "Introduction to Macroeconomics // Fall 2024"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+
+# Readings {background-color="#62259D"}
+
+
+## Recommended readings
+
+<br>
+
+  - [Macroeconomics in Context]{.note}, 4th ed.
+    - ???
+    
+- Some quiz reading?
+
+
+## Words of the day
+
+
+
+# The income approach {background-color="#62259D"}
+
+
+
+## The income approach
+
+
+  
+
+
+
+
+# Next time:  {background-color="#62259D"}
+
