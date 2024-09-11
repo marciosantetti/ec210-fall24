@@ -1,0 +1,126 @@
+---
+title: "Macroeconomics & well-being III"
+subtitle: "Principles of Macroeconomics // Fall 2024"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+
+# Readings {background-color="#62259D"}
+
+
+
+## Recommended readings
+
+<br>
+
+**Required readings**:
+
+  - [Macroeconomics in Context]{.note}, 4th ed.
+    - Chapter 4, sections ??&mdash;??.
+
+<br>
+
+**Required listening**:
+
+# Quiz reading
+
+## Quiz reading
+
+<br>
+
+ Required reading for next [quiz]{.note} (due 09/24, before class):
+
+  - [[GDP Is Not a Measure of Human Well-Being, by A. Kapoor and B. Debroy (Harvard Business Review)]{.link}](https://hbr.org/2019/10/gdp-is-not-a-measure-of-human-well-being).
+  
+  - [[Alternative link]{.link}](https://archive.is/OfuGz)
+
+
+## Words of the day
+
+<br><br>
+
+- "Domestic" vs. "National";
+- "Real" vs. "Nominal".
+- Growth rates.
+
+
+# GDP: Shapes and forms {background-color="#62259D"}
+
+## GDP: Shapes and forms
+
+Suppose a "*toy*" economy, with [no]{.hi-purple} government and [no]{.hi-purple} interactions with the foreign sector, that only produces [apples]{.hi-red}:
+
+<br>
+
+| YEAR | QUANTITY SOLD | CURRENT PRICE ($)
+|------|--------------:|-------------:|
+| 2015 |       200     |     1.00 
+| 2016 |       200     |     1.50 
+| 2017 |       230     |     1.30     |
+
+: A "Toy" economy {tbl-colwidths="[10,20,22]"}
+
+. . .
+
+<br>
+
+  - Let us compute its [GDP]{.note} for each [year]{.hi}.
+  
+
+
+## GDP: Shapes and forms
+
+Simply looking at [current (market)]{.hi-orange} prices can be [misleading]{.hi-slate}.
+
+. . .
+
+  - [Why]{.note}?
+  
+. . .
+
+<br>
+
+  - [Inflation]{.hi-red} creates [distortions]{.hi-slate} in assessing whether [production/income]{.note} have actually changed or not over time.
+  
+. . .
+
+<br>
+
+> *[Inflation]{.hi-red} is a sustained increase in an economy's price level.*
+
+
+## GDP: Shapes and forms
+
+To that end, we introduce an important [distinction]{.hi-purple}:
+
+  - [Nominal]{.hi-green} GDP: the dollar value of all final goods and services produced in a year [in that year’s prices]{.note};
+  
+  - [Real]{.hi-orange} GDP: a measure reflecting the [actual value]{.note} of goods and services produced, by [removing the effect of changes in prices]{.orange} over time.
+
+
+. . .
+
+<br>
+
+When analyzing economic indicators, we usually pay attention to [real]{.hi-blue} measures.
+
+. . .
+
+  - [[U.S. Real GDP over time]{.link}](https://fred.stlouisfed.org/series/GDPC1)
+
+
+## GDP: Shapes and forms
+
+
+
+
+
+# Next time: {background-color="#62259D"}
+

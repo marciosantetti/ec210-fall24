@@ -59,7 +59,7 @@ $presentation-font-size-root: 28px;
 // colors
 //$body-bg: #f0f1eb !default;
 $body-color: $jet !default;
-$link-color: $accent !default;
+$link-color: #003472 !default;
 $selection-bg: #26351c !default;
 
 body {
@@ -188,6 +188,15 @@ body {
   color: $jet !important;
   /* color: #cccccc !important; */
   font-family: 'Source Sans 3' !important;
+}
+
+.link {
+  font-size: 80%;
+  font-style: normal;
+  font-weight: 400  ;
+  color: #003472 !important;
+  /* color: #cccccc !important; */
+  font-family: 'Source Code Pro' !important;
 }
 
 
@@ -373,9 +382,9 @@ body {
 
 .button {
   display: inline-block;
-  padding: 6px 12px;
+  padding: 5px 12px;
   margin-bottom: 0;
-  font-size: 14px;
+  font-size: 10px;
   font-weight: 400;
   line-height: 1.42857143;
   text-align: center;

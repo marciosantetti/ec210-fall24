@@ -1,10 +1,11 @@
 ---
 title: "Macroeconomics & well-being II"
-subtitle: "Introduction to Macroeconomics // Fall 2024"
+subtitle: "Principles of Macroeconomics // Fall 2024"
 institute: "marcio.santetti@emerson.edu"
 format: 
   clean-revealjs:
-    self-contained: true
+    self-contained: false
+    chalkboard: true
 html-math-method:
   method: mathjax
   url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
@@ -17,29 +18,220 @@ author:
 
 ## Recommended readings
 
-<br>
+**Required readings**:
 
   - [Macroeconomics in Context]{.note}, 4th ed.
-    - ???
-    
-- Some quiz reading?
+    - Chapter 4, sections 1&mdash;3.
+
+<br>
+
+**Required listening**:
+
+  - [[Planet Money podcast: GDP and what counts (NPR)]{.link}](https://www.npr.org/2022/07/21/1112752575/summer-school-2-gdp-what-counts)
 
 
 ## Words of the day
 
+<br><br>
 
+- "Economic" vs. "business" investment;
+- Circular flow.
+
+
+# Quick review
+
+## Quick review
+
+Measured by what each economic sector [spends]{.hi}, [Gross Domestic Product]{.hi-green} (GDP) can be defined by:
+
+$$
+\text{GDP} = C + I + G + (X-M)
+$$
+
+. . .
+
+<br>
+
+A few questions:
+
+  - Examples of [Consumption]{.note} (*C*) expenditures?
+  
+  - What do we mean by [Investment]{.note} (*I*)?
+  
+  - Examples of [Government]{.note} spending?
+  
+  - How do we call [*(X -M)*]{.note}?
 
 # The income approach {background-color="#62259D"}
+
+## The income approach
+
+After seeing how GDP can be computed via the [spending approach]{.hi-blue}, one can get the same results by:
+
+  - Adding up all [incomes]{.hi}, rather than *outputs*.
+  
+. . .
+
+The starting point is a measure known as [National Income]{.hi-orange} (NI).
+
+. . .
+
+  - It is the sum of the incomes earned by each (macro)economic [sector]{.hi-slate}, except for the *foreign* sector.
+  
+. . .
+
+What are the incomes earned by:
+
+  - [Households]{.note}?
+  - [Firms]{.note}?
+  - [Government]{.note}?
+
 
 
 
 ## The income approach
 
+[NI]{.hi-orange}, however, will **not** be equal to the [GDP]{.hi-slate} obtained by the [spending]{.hi-red} approach.
 
+. . .
+
+In other terms:
+
+$$
+\text{Wages} + \text{Profits} + \text{Rents} + \text{Interest} + \text{Net Taxes} \neq C + I + G + (X-M)
+$$
+
+. . .
+
+In order to make them equal:
+
+  - Add incomes from [*foreign*]{.note} production;
+  - Add the [*wear-and-tear*]{.note} of structures, equipment, software,...
+
+
+. . .
+
+With that, we arrive at a country's [Gross Domestic Income]{.hi-orange} (GDI).
+
+## The income approach  
+
+A country's [Gross Domestic Income]{.hi-orange} (GDI) is defined by:
+
+  > *The total amount of money earned by a nation’s people and its businesses*.
+  
+. . .
+
+<br>
+
+[Q]{.note}: What is the [GDI]{.hi-purple} of the U.S. economy?
+
+. . .
+
+[A]{.note}: As of the second quarter of 2024 (2024Q2), its GDI is of US$ [27.88 trillion]{.note}.
+
+. . .
+
+[Q]{.note}: But wasn't the U.S. GDP around US$ [28 trillion]{.note}?
+
+. . .
+
+[A]{.note}: Yes, but different data [*sources*]{.orange} yield different [*results*]{.orange}.
+
+  - [Statistical discrepancy]{.note}.
   
 
+## The income approach
+
+As an [example]{.hi}, suppose a simple economy producing a *single* product: bread.
+
+It is produced in [three]{.hi-purple} stages:
+
+. . .
+
+  1. Wheat is grown, harvested, and sold for $1 by a
+farmer to a miller (for simplification, assume the
+wheat is produced using *no* intermediate goods);
+
+  2. The wheat is used by a miller to produce flour,
+which is sold for $3; and
+
+  3. The flour is used by a baker to produce bread,
+which is sold to a consumer for $7.
+
+. . .
+
+<br>
+
+[Q1]{.note}: What is this economy's [Gross Domestic Income]{.note}?
+
+[Q2]{.note}: What is this economy's [Gross Domestic Product]{.note}?
+
+# Reality check
+
+## Reality check
+
+<br><br>
+
+- [[U.S. Gross Domestic Product over time]{.link}](https://fred.stlouisfed.org/series/GDP)
+
+<br>
+
+- [[U.S. National Income and Product Accounts]{.link}](https://apps.bea.gov/iTable/?reqid=19&step=2&isuri=1&categories=underlying#eyJhcHBpZCI6MTksInN0ZXBzIjpbMSwyLDNdLCJkYXRhIjpbWyJjYXRlZ29yaWVzIiwiU3VydmV5Il0sWyJOSVBBX1RhYmxlX0xpc3QiLCI1Il1dfQ==)
+
+
+# GDP wrap-up {background-color="#62259D"}
+
+## The circular flow
+
+![Source: *Case, Fair, and Oster (2012).*](flow2.png){fig-align="center" width="650" height="600"}
+
+
+## Breaking down GDP
+
+<br>
+
+What do we mean by:
+
+<br>
+
+  - [Gross]{.note}?
+  
+  - [Domestic]{.note}?
+  
+  - [Product]{.note}?
+  
+## GDP by expenditure
+
+
+<br>
+
+- [[U.S. Gross Domestic Product over time, again]{.link}](https://fred.stlouisfed.org/series/GDP)
+
+
+# Quick practice
+
+## Quick practice
+
+Suppose you are given the following data (in US$ billions):
+
+  - *Sales of durable goods*: $ 1,035
+  - *Nonresidential investment expenditures*: $ 1,388.80
+  - *Federal Government expenditures*: $ 1,144.80
+  - *Changes in business inventories*: $ -120.90
+  - *Exports*: $ 1,564.20
+  - *Services*: $ 6,833.90
+  - *Sales of nondurable goods*: $ 2,220.20
+  - *State and local government spending*: $ 1,786.90
+  - *Imports*: $ 1,956.60
+  - *Residential investment*: $ 361.00
+
+. . .
+
+Compute *(a)* each [aggregate expenditure]{.hi} and *(b)* its [total value]{.hi-slate}.
 
 
 
-# Next time:  {background-color="#62259D"}
+
+
+# Next time:  Shapes and forms of GDP {background-color="#62259D"}
 
