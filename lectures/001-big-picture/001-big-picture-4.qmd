@@ -1,0 +1,44 @@
+---
+title: "Macroeconomics & well-being IV"
+subtitle: "Principles of Macroeconomics // Fall 2024"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+
+# Readings {background-color="#62259D"}
+
+
+
+## Recommended readings
+
+<br>
+
+**Required readings**:
+
+  - [Macroeconomics in Context]{.note}, 4th ed.
+    - Chapter 5, sections???.
+    
+  🔗 [[The trouble with GDP]{.link}](https://archive.is/3gIZJ) (*The Economist*)
+  
+  🔗 [[How to measure prosperity]{.link}](https://archive.is/nNxuG) (*The Economist*)
+
+
+## The latest numbers
+
+<br><br>
+
+  🔗 [[Gross Domestic Product, Second Quarter 2024]{.link}](https://www.bea.gov/sites/default/files/2024-08/gdp2q24-2nd.pdf) (BEA)
+
+
+
+
+
+
+# Next time: ??? {background-color="#62259D"}

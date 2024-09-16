@@ -4,7 +4,8 @@ subtitle: "Principles of Macroeconomics // Fall 2024"
 institute: "marcio.santetti@emerson.edu"
 format: 
   clean-revealjs:
-    self-contained: true
+    self-contained: false
+    chalkboard: true
 html-math-method:
   method: mathjax
   url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
@@ -23,23 +24,15 @@ author:
 **Required readings**:
 
   - [Macroeconomics in Context]{.note}, 4th ed.
-    - Chapter 4, sections ??&mdash;??.
+    - Chapter 4, section 4.
+
 
 <br>
 
-**Required listening**:
+**Recommended reading**:
 
-# Quiz reading
+  &#128279; [[What are PPP adjustments and why do we need them? (*Our World in Data*)]{.link}](https://ourworldindata.org/what-are-ppps) 
 
-## Quiz reading
-
-<br>
-
- Required reading for next [quiz]{.note} (due 09/24, before class):
-
-  - [[GDP Is Not a Measure of Human Well-Being, by A. Kapoor and B. Debroy (Harvard Business Review)]{.link}](https://hbr.org/2019/10/gdp-is-not-a-measure-of-human-well-being).
-  
-  - [[Alternative link]{.link}](https://archive.is/OfuGz)
 
 
 ## Words of the day
@@ -47,7 +40,8 @@ author:
 <br><br>
 
 - "Domestic" vs. "National";
-- "Real" vs. "Nominal".
+- "Real" vs. "Nominal";
+- Big Mac;
 - Growth rates.
 
 
@@ -111,16 +105,275 @@ To that end, we introduce an important [distinction]{.hi-purple}:
 
 When analyzing economic indicators, we usually pay attention to [real]{.hi-blue} measures.
 
+$\hspace{1.2cm}$&rarr; This way, [real]{.hi-slate} values refer to the same statistic after it has been [adjusted for inflation]{.hi}.
+
 . . .
 
-  - [[U.S. Real GDP over time]{.link}](https://fred.stlouisfed.org/series/GDPC1)
+  &#128279; [[U.S. Real GDP over time]{.link}](https://fred.stlouisfed.org/series/GDPC1)
 
 
 ## GDP: Shapes and forms
 
+Back to the "*toy*" economy example:
+
+<br>
+
+| YEAR | QUANTITY SOLD | CURRENT PRICE ($)
+|------|--------------:|-------------:|
+| 2015 |       200     |     1.00 
+| 2016 |       200     |     1.50 
+| 2017 |       230     |     1.30     |
+
+: A "Toy" economy {tbl-colwidths="[10,20,22]"}
+
+. . .
+
+<br>
+
+  - How do we obtain the [Real]{.hi-orange} (i.e., [adjusted for inflation]{.note}) [GDP]{.hi-orange} for each year?
+
+## GDP: Shapes and forms
+
+There are [major issues]{.red} when using [base-year prices]{.note} to compute Real GDP:
+
+  1. [Conditional]{.hi} on the chosen year/period;
+  
+  2. [Less reliable]{.hi-blue} over time, as prices and spending [patterns]{.hi-slate} change more and more.
+  
+. . .
+
+<br>
+
+The U.S. [BEA]{.red} uses a "*chained-dollar*" approach to compute its Real GDP.
+
+  - Although more complex, it preserves the intuition behind adjusting for inflation.
+  
+  - See Ch. 4's [Appendix]{.note} for more info.
+  
+
+
+## GDP: Shapes and forms
+
+As any economy produces an [*overwhelming*]{.red} amount of goods and services every year, [how are all prices accounted for]{.hi-orange}?
+
+. . .
+
+<br>
+
+The U.S. uses the [GDP deflator]{.hi-slate} to transform [Nominal]{.hi-blue} into [Real]{.hi-green} GDP.
+
+. . .
+
+> *The [GDP deflator]{.hi-slate} is a price [index]{.note} for measuring the general level of prices and defined as the [ratio]{.note} of [nominal]{.hi-blue} GDP to [real]{.hi-green} GDP.*
+
+. . .
+
+<br>
+
+  &#128279; [[U.S. BEA page for GDP deflator]{.link}](https://www.bea.gov/data/prices-inflation/gdp-price-deflator)
+
+## GDP: Shapes and forms
+
+Recall the [Domestic]{.note} part of GDP.
+
+. . .
+
+  - What about a country's *citizens/businesses* operating [abroad]{.hi-red}?
+  
+. . .
+
+<br>
+
+In order to account for [citizenship]{.note} rather than [location]{.note}, one can replace [Domestic]{.hi-orange} with [National]{.hi-green}.
+
+. . .
+
+<br>
+
+Therefore, we can define:
+
+  - [Gross National Product]{.hi-green} (GNP);
+  
+  - [Gross National Income]{.hi-slate} (GNI).
+
+## GDP: Shapes and forms
+
+<br><br>
+
+  &#128279; [[U.S. Gross National Product over time]{.link}](https://fred.stlouisfed.org/series/GNP)
+  
+  &#128279; [[U.S. Gross National Income over time]{.link}](https://fred.stlouisfed.org/series/A023RC1Q027SBEA)
+  
+  
+
+# What about comparing countries? {background-color="#62259D"}
+
+## What about comparing countries?
+
+<br>
+
+It is common practice [comparing]{.note} different economies for diverse purposes.
+
+. . .
+
+<br>
+
+In terms of GDP, there are a few ways of doing so:
+
+  - [GDP *per capita*]{.hi-slate};
+  
+  - [GDP in terms of Purchasing Power Parity (PPP)]{.hi-green}.
+
+
+## What about comparing countries?
+
+A country may have a [higher GDP]{.hi-orange} (GNP) than another, but that may be because it has a [larger population]{.hi-slate} than the other.
+
+. . .
+
+
+In order to control for this factor, [*per capita*]{.hi-green} measures are helpful.
+
+. . .
+
+For the case of GDP, for instance:
+
+$$
+\text{GDP per capita} = \dfrac{\text{Nominal or Real GDP}}{\text{Population}}
+$$
+
+. . .
+
+<br>
+
+  &#128279; [[An overview of GDP per capita over time]{.link}](https://ourworldindata.org/grapher/gdp-per-capita-worldbank)
+  
+. . .
+
+In terms of [income]{.hi-blue}, [Gross National Income (GNI) *per capita*]{.hi-orange} is one of the main indicators of [living standards]{.hi-green}.
+
+## What about comparing countries?
+
+
+By now, we know that GDP (and its *close cousins*) are measured in terms of [local currencies]{.hi-green}.
+
+. . .
+
+  - But what if we want to make [cross-country comparisons]{.orange}, [without]{.hi-slate} relying on population sizes?
+  
+. . .
+
+We need to bring these statistics into a [common currency]{.note}.
+
+. . .
+
+  - One option are [exchange rates]{.hi-red}.
+  
+. . .
+
+<br>
+
+> *The [exchange rate]{.hi-red} is the value of one currency in terms of another currency.*
+
+
+
+## What about comparing countries?
+
+In terms of [living standards]{.hi-purple}, a more [meaningful]{.hi-green} comparison between two or more economies involves [cross-country differences in purchasing power]{.note}.
+
+. . .
+
+In short, controlling for [price differentials]{.hi-slate} allows us to more meaningfully compare GDP (and its relatives) between countries. 
+
+
+. . .
+
+Thus we arrive to GDP in terms of [Purchasing Power Parity (PPP)]{.hi-purple}.
+
+. . .
+
+The [purchasing power parity conversion factor]{.hi-orange} takes the [relative prices]{.note} between countries into account and allows for comparisons on how many currency units one has to spend [to buy the same amount of goods and services]{.hi-slate} in another country.
+
+
+## What about comparing countries?
+
+<br>
+
+> "*Purchasing	power	parity	exchange	rates,	PPPs,	are	international	multilateral	price	
+indexes	that	measure,	for	the	various	components	of	GDP,	the	amount	of	local	currency	required	to	purchase	the	same	real	amount	in	that	country	relative	to	a	numeraire,	which	is	typically	the	United	States*." (Deaton & Aten, 2015).
+
+. . .
+
+  &#128279; [[GDP price levels relative to the U.S., 1990 to 2022]{.link}](https://ourworldindata.org/grapher/gdp-price-levels-relative-to-the-us)
 
 
 
 
-# Next time: {background-color="#62259D"}
+
+## What about Big Macs?
+
+<br><br>
+
+  &#128279; [[The Economist's *Big Mac Index*]{.link}](https://www.economist.com/big-mac-index)
+
+
+
+# Making better sense of numbers {background-color="#62259D"}
+
+
+## Making better sense of numbers
+
+Plain numbers, without [context]{.hi-slate}, are usually *meaningless.*
+
+. . .
+
+Regarding [macroeconomic statistics]{.hi-orange}, this is [no different]{.purple}.
+
+. . .
+
+As seen before, the U.S. economy's current [Gross Domestic Product]{.hi-green} is of US$ [28.65 trillion]{.note}.
+
+. . .
+
+  - So what?
+  
+. . .
+
+<br>
+
+A [first step]{.note} to make better sense of such numbers is to look at this measure's [historical trajectory]{.hi-purple}.
+
+  &#128279; [[U.S. Gross Domestic Product over time]{.link}](https://fred.stlouisfed.org/series/GDP)
+
+
+## Making better sense of numbers
+
+Looking at economic measures [in levels]{.hi} shows the overall [long-run process]{.orange} of economic growth.
+
+. . .
+
+But if we would like to know what was the [growth rate]{.hi-purple} over time, we need to compute these rates from the data in levels.
+
+$$
+\text{Growth rate (%)} = \dfrac{\text{Final Period - Initial Period}}{\text{Initial Period}} \ \times 100
+$$
+
+. . .
+
+<br>
+
+| YEAR |    REAL GDP   | GROWTH RATE (%)
+|------|--------------:|:----------------:|
+| 2020 |  20,234.074   |      N/A
+| 2021 |  21,407.693   |      
+| 2022 |  21,822.037   |          
+| 2023 |  22,376.907   |                  |
+
+: U.S. economy's GDP, 2020--2023 {tbl-colwidths="[10,20,22]"}
+
+
+
+
+
+# Next time: GDP and well being? {background-color="#62259D"}
 
