@@ -37,13 +37,14 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 **002: Macroeconomics & well-being II**
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec210-fall24/main/lectures/001-big-picture/001-big-picture-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec210-fall24/main/lectures/001-big-picture/001-big-picture-2.pdf)
+  - *GDP & well-being Quiz* instructions: [`html`](https://raw.githack.com/marciosantetti/ec210-fall24/main/lectures/001-big-picture/quiz-reading-1.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec210-fall24/main/lectures/001-big-picture/quiz-reading-1.pdf)
 
 <br>
 
 **003: Macroeconomics & well-being III**
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec210-fall24/main/lectures/001-big-picture/001-big-picture-3.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec210-fall24/main/lectures/001-big-picture/001-big-picture-3.pdf)
-  - GDP & well-being Quiz instructions: [`html`](https://raw.githack.com/marciosantetti/ec210-fall24/main/lectures/001-big-picture/quiz-reading-1.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec210-fall24/main/lectures/001-big-picture/quiz-reading-1.pdf)
+
 
 <br>
 
