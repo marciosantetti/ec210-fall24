@@ -1,0 +1,151 @@
+---
+title: "Well-being measures: Discussions"
+subtitle: "Principles of Macroeconomics // Fall 2024"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+
+# Purpose
+
+## Purpose
+
+<br>
+
+A *"warm-up*" for the [Fall Newsletter]{.note} assignment:
+
+. . .
+
+<br>
+
+  - [Divide]{.hi-green} the labor;
+  
+  - [Assign]{.hi-orange} tasks;
+  
+  - Take [accountability]{.hi-slate};
+  
+  - Working with [limited]{.hi-purple} time;
+  
+  - Presenting a [final product]{.hi}.
+
+
+# Assignment
+
+
+## Assignment
+
+<br>
+
+Organize the [10/?? lecture]{.hi-slate} (*yes, the stage will be yours*) on [two]{.hi} of the most widely used measures of [well-being]{.note}:
+
+<br>
+
+
+  1. 🔗 [[The Human Development Index (HDI)]{.link}](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI);
+  
+  2. 🔗 [[The Better Life Index (BLI)]{.link}](https://www.oecdbetterlifeindex.org/).
+
+
+. . .
+
+
+
+Of course, these two topics are the [center]{.hi-green} of the lecture.
+
+  - But feel free to add more *context*/*content* to it.
+
+# Dynamics
+
+## Dynamics
+
+&rarr; [Teach the class you would like to sit on!]{.note}
+
+. . .
+
+&rarr; Does everybody need to [talk]{.note}?
+
+. . .
+
+  - No.
+  
+. . .
+
+&rarr; Does everybody need to [participate]{.note}?
+
+. . .
+
+  - Yes.
+  - Speaking is just one part of the process.
+  - [Give credit where credit is due]{.purple}!
+
+
+. . .
+
+&rarr; Make it interesting. Enjoy the process. This is not just about the content. It's about [anticipating "real-world" situations]{.note}.
+
+## Dynamics
+
+<br>
+
+More *specifically*:
+
+. . .
+
+  - Will you use *slides*? The *whiteboard*? *Both*?
+  
+  - Would you like class *participation*/*debate*?
+  
+  - Show some *real-world data*! (Useful *links* at the end of this presentation)
+  
+  - Be *critical* about what you are presenting.
+  
+  - How does the subject *relate* to what we have seen so far in class?
+
+# Grading
+
+## Grading
+
+&rarr; [Quick rubic]{.note}:
+
+  - Time management: **5** points;
+  
+  - Clear outline and presentation: **5** points;
+  
+  - No reading: **5** points;
+  
+  - Creativity: **5** points;
+  
+  - Acknowledging where each student contributed to the lecture: **5** points.
+  
+<br>
+
+[Points possible]{.note}: **25**.
+
+
+. . .
+
+- Grade will be added to the [Mini Projects]{.note} group.
+
+
+
+# Useful links
+
+
+## Useful links
+
+
+<br>
+
+  - 🔗 [[The Human Development Index (HDI)]{.link}](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI);
+  
+  - 🔗 [[The Better Life Index (BLI)]{.link}](https://www.oecdbetterlifeindex.org/);
+
+  - 🔗 [[CIA's *The World Factbook*]{.link}](https://www.cia.gov/the-world-factbook/);
+  
+  - 🔗 [[*Our World in Data*]{.link}](https://ourworldindata.org/).

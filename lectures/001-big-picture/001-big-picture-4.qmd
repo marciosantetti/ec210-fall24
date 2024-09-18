@@ -25,18 +25,64 @@ author:
   - [Macroeconomics in Context]{.note}, 4th ed.
     - Chapter 5, sections???.
     
-  🔗 [[The trouble with GDP]{.link}](https://archive.is/3gIZJ) (*The Economist*)
+  🔗 [[The trouble with GDP (*The Economist*)]{.link}](https://archive.is/3gIZJ) 
   
-  🔗 [[How to measure prosperity]{.link}](https://archive.is/nNxuG) (*The Economist*)
+  🔗 [[How to measure prosperity (*The Economist*)]{.link}](https://archive.is/nNxuG) 
 
 
 ## The latest numbers
 
 <br><br>
 
-  🔗 [[Gross Domestic Product, Second Quarter 2024]{.link}](https://www.bea.gov/sites/default/files/2024-08/gdp2q24-2nd.pdf) (BEA)
+  🔗 [[Gross Domestic Product, Second Quarter 2024 (BEA)]{.link}](https://www.bea.gov/sites/default/files/2024-08/gdp2q24-2nd.pdf)
 
 
+# More dimensions {background-color="#62259D"}
+ 
+
+## More dimensions
+
+<br>
+
+Since its adoption in the mid-1930s, [GDP]{.note} has become the official [barometer]{.hi-slate} of [living standards]{.orange} and [business cycles]{.blue}.
+
+. . .
+
+Most importantly, it is one of the main indicators for formulating *national* and *international* [policies]{.hi-blue}.
+
+
+. . .
+
+<br>
+
+  - Does that sound correct, considering a [multidimensional]{.note} approach?
+
+
+
+## More dimensions
+
+<br>
+
+GDP was [never]{.hi-slate} intended to measure *welfare* or *well-being*.
+
+. . .
+
+<br>
+
+That being said, what are [examples]{.hi-red} of
+
+. . .
+
+<br>
+
+  - Economic activities that [decrease]{.note} well-being, but [increase]{.note} GDP?
+  
+. . .
+
+  - Economic activities that [increase]{.note} well-being, but [decrease]{.note} GDP?
+
+
+## Which leads us to...
 
 
 
