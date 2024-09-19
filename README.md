@@ -65,7 +65,7 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
 <br>
 
-  - `Fall newsletter assignment description` (coming soon)
+  - [`Fall newsletter assignment description`](https://raw.githack.com/marciosantetti/ec210-fall24/main/fall-newsletter/fall-newsletter-24.pdf) (due 12/12, before class)
 
 <br>
 
