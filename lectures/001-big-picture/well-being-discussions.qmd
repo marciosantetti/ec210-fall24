@@ -1,5 +1,5 @@
 ---
-title: "Well-being measures: Discussions"
+title: "Macroeconomics & well being: Discussions"
 subtitle: "Principles of Macroeconomics // Fall 2024"
 institute: "marcio.santetti@emerson.edu"
 format: 
@@ -42,7 +42,7 @@ A *"warm-up*" for the [Fall Newsletter]{.note} assignment:
 
 <br>
 
-Organize the [10/?? lecture]{.hi-slate} (*yes, the stage will be yours*) on [two]{.hi} of the most widely used measures of [well-being]{.note}:
+Organize the [10/10 lecture]{.hi-slate} (*yes, the stage will be yours*) on [two]{.hi} of the most widely used measures of [well-being]{.note}:
 
 <br>
 
@@ -68,7 +68,7 @@ Of course, these two topics are the [center]{.hi-green} of the lecture.
 
 . . .
 
-&rarr; Does everybody need to [talk]{.note}?
+&rarr; Does everybody need to [speak    ]{.note}?
 
 . . .
 
@@ -101,7 +101,7 @@ More *specifically*:
   
   - Would you like class *participation*/*debate*?
   
-  - Show some *real-world data*! (Useful *links* at the end of this presentation)
+  - Show some *real-world data*! (Useful *links* at the end of this presentation.)
   
   - Be *critical* about what you are presenting.
   

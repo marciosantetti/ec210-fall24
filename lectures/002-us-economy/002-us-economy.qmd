@@ -1,0 +1,160 @@
+---
+title: "The structure of the U.S. economy"
+subtitle: "Principles of Macroeconomics // Fall 2024"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Readings {background-color="#62259D"}
+  
+  
+  
+## Recommended readings
+  
+<br>
+  
+**Required readings**:
+  
+- [Macroeconomics in Context]{.note}, 4th ed.
+  - Chapter 6.
+
+  
+<br>
+
+**Recommended readings**:
+
+  &#128279; [[Structural transformation: how did today’s rich countries become ‘deindustrialized’? (Our World in Data)]{.link}](https://ourworldindata.org/structural-transformation-and-deindustrialization-evidence-from-todays-rich-countries)
+  
+  
+## Words of the day
+  
+<br><br>
+
+  - Value added;
+  - Labor productivity;
+  - Deindustrialization.
+  
+# The three sectors {background-color="#62259D"}
+
+## The three sectors
+
+<br><br>
+
+  &#128279;  [[U.S. GDP by economic sector]{.link}](https://ourworldindata.org/grapher/shares-of-gdp-by-economic-sector)
+
+
+
+## Return to GDP
+
+<br><br>
+
+Computing GDP by the [value-added approach]{.note} takes into account how much [each sector]{.hi} contributes to the final value of goods and services at [each stage]{.hi-slate} of the productive process.
+
+## The three sectors
+
+<br>
+
+Output [sectors]{.hi-slate}:
+
+
+
+. . .
+
+$\hspace{.5cm}$  &rarr; [Primary sector]{.note};
+
+. . .
+
+$\hspace{.5cm}$  &rarr; [Secondary sector]{.note};
+
+. . .
+
+$\hspace{.5cm}$  &rarr; [Tertiary sector]{.note}.
+
+## The three sectors
+
+<br>
+
+Output [sectors]{.hi-slate}:
+
+
+
+$\hspace{.5cm}$  &rarr; [Primary sector]{.note}: Harvesting and extraction of [natural resources]{.hi-green} and rudimentary [*processing*]{.orange} of these raw materials. 
+  
+. . .
+
+$\hspace{.5cm}$  &rarr; [Secondary sector]{.note}: [Converts]{.hi-orange} the outputs of the primary sector into products suitable for *use* or *consumption.*
+
+. . .
+
+$\hspace{.5cm}$  &rarr; [Tertiary sector]{.note}: Provides [services]{.hi} rather than *tangible* goods.
+
+
+## The three sectors
+
+Output [sectors]{.hi-slate}:
+
+
+<br>
+
+
+$\hspace{.5cm}$  &rarr; [Primary sector]{.note}: agriculture, (commercial) fishing, mining, timber.
+  
+. . .
+
+$\hspace{.5cm}$  &rarr; [Secondary sector]{.note}: automobile, chemical, pharmaceutical, vehicles, ...
+
+. . .
+
+$\hspace{.5cm}$  &rarr; [Tertiary sector]{.note}: education, health, real estate, insurance, banking, finance, ...
+
+
+
+# The primary sector {background-color="#62259D"}
+
+## The primary sector
+
+
+<br>
+
+[Questions]{.note} to think about:
+
+<br>
+
+  - Why do all nations start as an [agrarian]{.hi} economy?
+  
+  - Why does total farm population tend to [decline]{.hi-red} over time?
+
+
+# The secondary sector {background-color="#62259D"}
+
+
+## The secondary sector
+
+<br><br>
+
+  &#128279; [[U.S. employment by output sector]{.link}](https://ourworldindata.org/grapher/employment-by-economic-sector?stackMode=relative)
+  
+<br>
+
+. . .
+
+  - Why do we see a [falling]{.hi-green} employment in the secondary sector over time?
+
+
+# The tertiary sector {background-color="#62259D"}
+
+
+## The tertiary sector
+
+<br><br>
+
+  - Contrary to the other two sectors, why do we see a [rise]{.hi-blue} of employment/output due to the [services]{.note} sector?
+
+# Next time: (Un)employment {background-color="#62259D"}
