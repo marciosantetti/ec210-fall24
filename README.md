@@ -56,6 +56,13 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
 <br>
 
+**005: The structure of the U.S. economy**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec210-fall24/main/lectures/002-us-economy/002-us-economy.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec210-fall24/main/lectures/002-us-economy/002-us-economy.pdf)
+  - *Productivity Quiz* instructions: [`html`](https://raw.githack.com/marciosantetti/ec210-fall24/main/lectures/002-us-economy/quiz-reading-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec210-fall24/main/lectures/002-us-economy/quiz-reading-2.pdf)
+
+<br>
+
 ## Assignments
 
 <br>
