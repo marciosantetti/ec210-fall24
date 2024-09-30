@@ -63,6 +63,12 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
 <br>
 
+**006: (Un)employment: Basic definitions**
+
+  - Slides: `html` | `pdf`
+
+<br>
+
 ## Assignments
 
 <br>
