@@ -1,0 +1,24 @@
+---
+title: "Quiz reading #2"
+subtitle: "Principles of Macroeconomics // Fall 2024"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: false
+    chalkboard: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+
+## Quiz reading
+
+<br>
+
+⚠️ **Required reading** for next [quiz]{.note} (due 10/08, before class): ⚠️
+
+  &#128279; [["Do workers in richer countries work longer hours?" by C. Giattino and E. Ortiz-Ospina (Our World in Data)]{.link}](https://ourworldindata.org/rich-poor-working-hours).
+  
+

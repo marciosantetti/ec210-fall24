@@ -30,7 +30,7 @@ author:
 
 **Recommended readings**:
 
-  &#128279; [[Structural transformation: how did today’s rich countries become ‘deindustrialized’? (Our World in Data)]{.link}](https://ourworldindata.org/structural-transformation-and-deindustrialization-evidence-from-todays-rich-countries)
+  &#128279; [[Structural transformation: How did today’s rich countries become ‘deindustrialized’? (Our World in Data)]{.link}](https://ourworldindata.org/structural-transformation-and-deindustrialization-evidence-from-todays-rich-countries)
   
   
 ## Words of the day
@@ -49,6 +49,45 @@ author:
 
   &#128279;  [[U.S. GDP by economic sector]{.link}](https://ourworldindata.org/grapher/shares-of-gdp-by-economic-sector)
 
+## Return to GDP
+
+Suppose a simple, [closed]{.hi-green} economy with [no]{.hi} government.
+
+. . .
+
+The only [final]{.note} product available is [orange juice]{.hi-orange}.
+
+. . .
+
+The [productive process]{.note} goes as follows:
+
+. . .
+
+1. A farmer grows oranges at [no cost]{.hi-slate};
+
+2. A [manufacturer]{.hi} takes the oranges and makes orange juice;
+
+3. A distributor takes the orange juice from the manufacturer and [transports]{.hi-pink} it to the local grocery store;
+
+4. The grocery store [sells]{.hi-purple} orange juice to final consumers.
+
+## Return to GDP
+
+| ACTIVITY                         |    INPUT COSTS (\$)   | OUTPUT PRICE (\$) | VALUE ADDED ($)
+|----------------------------------|--------------------------:|----------------:|---------------:
+| Growing oranges                  |  0              |      1,000                |  
+| Producing orange juice           |  1,000          |      1,500                 |
+| Transportation & distribution    |  1,500          |      2,250                      |
+| Orange juice sales               |  2,250     |           3,500                  |            |
+
+: An "orange" economy {tbl-colwidths="[40,20,20,20]"}
+
+
+. . . 
+
+<br>
+
+- What [contribution]{.hi-pink} to the final value of orange juice is [each step/activity]{.note} making?
 
 
 ## Return to GDP
