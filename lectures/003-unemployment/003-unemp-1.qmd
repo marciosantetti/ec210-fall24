@@ -23,7 +23,8 @@ author:
 **Required readings**:
   
 - [Macroeconomics in Context]{.note}, 4th ed.
-  - Chapter 7.
+  - Chapter 7, section 1.
+
   
 - &#128279; [[How the government measures unemployment (BLS)]{.link}](https://www.bls.gov/cps/cps_htgm.htm)
 
@@ -39,7 +40,9 @@ author:
   
 <br><br>
 
-
+- CPS;
+- Labor force;
+- Unemployment rate.
   
 # Measuring unemployment {background-color="#62259D"}
 
@@ -66,15 +69,15 @@ As of August 2024, the U.S. [civilian unemployment rate]{.hi-slate} is of [4.2%]
 
 . . .
 
-  - Relating these [4.2%]{.note} with [GDP]{.hi-orange}? (less people purchasing goods and services, or less than the amount had they been employed)
+  - Relating these [4.2%]{.note} with [GDP]{.hi-orange}?
   
 . . .
 
-  - Relating these [4.2%]{.note} with those [employed]{.hi-slate}? (purchasing power lost, can lead to more unemployment)
+  - Relating these [4.2%]{.note} with those [employed]{.hi-slate}? 
   
 . . .
 
-  - And why should one [care]{.hi-pink} about unemployment? (away from potential; have information so can have policies to fix the problem)
+  - And why should one [care]{.hi-pink} about these [4.2%]{.note} at all? 
 
 
 ## Measuring unemployment
@@ -119,7 +122,7 @@ As of August 2024, the U.S. [civilian unemployment rate]{.hi-slate} is of [4.2%]
 
 [A]{.note}: The [civilian non-institutional population]{.note}.
 
-  - Persons [16]{.note} years or older who do not live in institutions.
+  - Persons [16]{.note} years or older who do not live in [institutions]{.hi-slate}.
 
 . . .
 
@@ -168,6 +171,19 @@ $$
 Thus we [formally]{.hi-green} define the [unemployment rate]{.note} as the *percentage of the labor force made up of people who do not have paid jobs but are immediately available and actively looking for paid jobs*.
 
 
+## Measuring unemployment
+
+<br><br>
+
+[Q]{.note}: Who is considered [not in the labor force]{.note}?
+
+. . .
+
+[A]{.note}: Those who do not meet the [criteria]{.note} to be considered [neither]{.note} employed nor unemployed.
+
+. . .
+
+  - Examples?
 
 
 ## Measuring unemployment
@@ -189,19 +205,7 @@ Thus we [formally]{.hi-green} define the [unemployment rate]{.note} as the *perc
 ![Source: U.S. Bureau of Labor Statistics.](chart.png){fig-align="center" width="1200" height="550"}
 
 
-## Measuring unemployment
 
-<br><br>
-
-[Q]{.note}: Who is considered [not in the labor force]{.note}?
-
-. . .
-
-[A]{.note}: Those who do not meet the [criteria]{.note} to be considered [neither]{.note} employed nor unemployed.
-
-. . .
-
-  - Examples?
 
 
 
@@ -237,4 +241,4 @@ Within this latter category, there might be so-called [discouraged workers]{.hi}
 
   - Individuals who want employment but have [given up]{.note} looking because they believe that there are no jobs available for them.
 
-# Next time: Types of unemployment; wages
+# Next time: Types of unemployment; wages {background-color="#62259D"}
