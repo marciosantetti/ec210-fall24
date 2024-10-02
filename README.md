@@ -65,7 +65,7 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
 **006: (Un)employment: Basic definitions**
 
-  - Slides: `html` | `pdf`
+  - Slides: [`html`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/003-unemployment/003-unemp-1.html) | [`pdf`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/003-unemployment/003-unemp-1.pdf)
 
 <br>
 
