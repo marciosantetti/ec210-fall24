@@ -1,0 +1,341 @@
+---
+title: "Inflation: Basic definitions"
+subtitle: "Principles of Macroeconomics // Fall 2024"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Readings {background-color="#62259D"}
+  
+  
+  
+## Recommended readings
+  
+<br>
+  
+**Required readings**:
+  
+
+- &#128279; [[Consumer Price Index FAQs (*BLS*)]{.link}](https://www.bls.gov/cpi/questions-and-answers.htm)
+
+- &#128279; [[Consumer Expenditure surveys FAQs (*BLS*)]{.link}](https://www.bls.gov/cex/csxfaqs.htm)
+
+  
+<br>
+
+**Recommended listening**:
+
+- &#128279; [[Planet Money Podcast: Inflation & drinking buddies (*NPR*)]{.link}](https://www.npr.org/2022/08/03/1115430369/planet-money-summer-school-4-inflation-drinking-buddies)
+  
+  
+## Words of the day
+  
+<br><br>
+
+- CPI;
+- PCE.
+  
+# Measuring inflation {background-color="#62259D"}
+
+## Measuring inflation
+
+<br>
+
+As of September 2024, the U.S. [inflation rate]{.note}, measured by the [Consumer Price Index (CPI)]{.hi-slate}, is of [0.2%]{.note}.
+
+. . . 
+
+<br><br>
+
+  - How do you [interpret]{.note} this statistic?
+
+## Measuring inflation
+
+<br>
+
+[Inflation]{.note} is defined as the [percentage change]{.hi-slate} in the *price index* over a given time period.
+
+. . .
+
+  - An economy's [price index]{.hi-slate} is an [index number]{.note} arbitrarily set to 1 or 100 for a certain period.
+  
+  - The price index then increases (decreases) for each subsequent year by the [rate of inflation]{.note} (deflation/disinflation).
+  
+. . .
+
+The [inflation rate]{.note} is nothing but the [growth rate]{.hi-pink} of a price index:
+
+<br>
+
+$$
+\small \text{Inflation rate (%)} = \dfrac{\text{Final period's price index - Initial period's price index}}{\text{Initial period's price index}} \times 100
+$$
+
+
+## Measuring inflation
+
+<br>
+
+When defining inflation, the term [price index]{.hi} was used.
+
+. . .
+
+This leads to the question of [what prices]{.hi-purple} we are considering.
+
+. . .
+
+In the U.S., there are a number of [different]{.note} measures of inflation.
+
+. . .
+
+The most common are:
+
+
+  - The [Consumer Price Index]{.note} (CPI);
+  
+  - The [Personal Consumption Expenditure Deflator]{.note} (PCE);
+  
+
+
+
+## Measuring inflation
+
+<br>
+
+The [Consumer Price Index]{.note} (CPI) is a the most [popular]{.hi-red} inflation measure across media outlets.
+
+. . .
+
+<br>
+
+  - Released by the [U.S. Bureau of Labor Statistics]{.hi-blue} (BLS), the CPI measures the average change over time in the prices paid by consumers for a representative basket of consumer goods and services.
+  
+. . .
+
+Its purpose is to  reflect inflation as experienced by consumers in their [day-to-day living expenses]{.note}.
+
+## Measuring inflation
+
+<br>
+
+The CPI compiles data on expenditure items into more than [200]{.hi-purple} categories, arranged into [8 major groups]{.hi}:
+
+  1. Food and beverages;
+  2. Housing (shelter);
+  3. Apparel;
+  4. Transportation;
+  5. Medical care;
+  6. Recreation;
+  7. Education and communication;
+  8. Other goods and services.
+
+
+## Measuring inflation
+
+```{r}
+#| echo: false
+#| fig-width: 17
+#| fig-height: 10
+#| dev: svg
+
+
+library(tidyverse)
+library(scales)
+library(hrbrthemes)
+
+
+
+
+
+cex <- tibble(
+  "Shelter" = 36.191,
+  "Food" = 14.409,
+  "Transportation" = 15.898,
+  "Energy" = 6.655,
+  "Medical care" = 8.004,
+  "Education and Communication" = 5.906,
+  "Apparel" = 2.512,
+  "Recreation"= 5.307,
+  "Other goods and services" = 2.899
+)
+
+
+cex <- cex %>% 
+  pivot_longer(cols = Shelter:`Other goods and services`,
+               names_to = "components",
+               values_to = "share")
+
+cex %>% 
+  mutate(components = fct_reorder(components, share)) %>% 
+  ggplot(aes(x = share, y = components)) +
+  geom_col(alpha = 0.7) +
+  scale_x_continuous(labels = percent_format(scale = 1),
+                     breaks = seq(5, 50, 5)) +
+  labs(y = "",
+       x = "",
+       title = "Consumer Price Index: Basket of goods",
+       subtitle = "% share (December 2023)",
+       caption = "Source: US Bureau of Labor Statistics.") +
+  theme_ipsum_rc(base_size = 17)
+```
+
+
+
+## Measuring inflation
+
+<br><br><br>
+
+&#128279; [[What lies in each category?]{.link}](https://www.bls.gov/cpi/tables/relative-importance/2023.htm)
+
+
+## Measuring inflation
+
+Before moving on...
+
+. . .
+
+[Q]{.note}: Why should we [care]{.note} about inflation?
+  
+
+. . .
+
+<br>
+
+
+[A]{.note}: Inflation [deteriorates]{.hi-red} the [purchasing power]{.hi-green} of money.
+
+. . .
+
+<br>
+
+  - Recall that one of the [functions]{.note} of money is to [store value]{.hi-orange}.
+  
+. . .
+
+  - Given that, US$ 1,000 have [different]{.note} value properties when the inflation rate is [0.2%]{.note} and [5%]{.note}.
+  
+. . .
+
+$\hspace{2cm}$  $\cdot$ Why?
+
+      
+## Measuring inflation
+
+Back to the [Consumer Price Index]{.note} (CPI).
+
+. . .
+
+
+[[**WHO**]{.note}]{.bg-grey}
+
+. . .
+
+[Q]{.note}: What is the [sample]{.note} for the CPI?
+
+. . .
+
+[A]{.note}: **2** population groups:
+
+  - All [Urban]{.note} Consumers (CPI-U);
+  
+      - $\approx$ [90%]{.note} of the population.
+
+  
+  - Urban [Wage]{.note} Earners and [Clerical]{.note} Workers (CPI-W).
+  
+      - $\approx$ [30%]{.note} of the population.
+
+
+## Measuring inflation
+
+[[**WHO**]{.note}]{.bg-grey}
+
+. . .
+
+[Q]{.note}: What is the [sample]{.note} for the CPI?
+
+. . .
+
+<br>
+
+[A]{.note}: [Consumer Expenditure]{.note} (CE) surveys conducted by the U.S. Census Bureau on behalf of the BLS.
+
+  - Two [independent]{.note} data collection surveys: 
+  
+      - [Quarterly Interview]{.note} (monthly *out-of-pocket* expenditures);
+      - [weekly Diary survey]{.note} (weekly expenditures of *frequently* purchased items).
+
+. . .
+
+  - $\approx$ 7,000 households.
+
+
+## Measuring inflation
+
+
+<br><br>
+
+&#128279; [[How the Consumer Price Index Measures Inflation (*WSJ*)]{.link}](https://www.youtube.com/watch?v=oRdLvp6H3CU)
+
+## Measuring inflation
+
+[Food]{.hi-green} and [energy]{.hi-pink} tend to be the most [volatile]{.note} components of the CPI.
+
+. . .
+
+To address this issue, we have the [Core CPI]{.hi-purple}.
+
+. . .
+
+<br>
+
+> “*It provide(s) a better guide to monetary policy than the other indices, since it measures the more persistent underlying inflation rather than transitory influences on the price level*.”
+
+(Ben Bernanke, former chair of the U.S. Federal Reserve)
+
+. . .
+
+<br>
+
+&#128279; [[The latest numbers]{.link}](https://www.bls.gov/cpi/latest-numbers.htm)
+
+
+
+
+## Measuring inflation
+
+Another measure of inflation policymakers keep a close eye on is the [Personal Consumption Expenditures Price Index]{.note} (PCE).
+
+. . .
+
+<br>
+
+The [PCE]{.hi-purple} has a [broader]{.note} scope than the CPI:
+
+  - Also includes [rural]{.note} consumers, as well as expenditures made on consumers' [behalf.]{.note}
+  
+      - Health insurance, Medicare, and Medicaid, for instance.
+      
+. . .
+
+<br>
+
+&#128279; [[The latest numbers]{.link}](https://www.bea.gov/data/personal-consumption-expenditures-price-index)
+
+
+## Measuring inflation
+
+<br><br><br>
+
+&#128279; [[Inflation over time]{.link}](https://fred.stlouisfed.org/series/PCEPI)
+
+
+
+# Next time: Inflation & other aggregates {background-color="#62259D"}

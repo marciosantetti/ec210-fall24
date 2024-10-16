@@ -4,7 +4,8 @@ subtitle: "Principles of Macroeconomics // Fall 2024"
 institute: "marcio.santetti@emerson.edu"
 format: 
   clean-revealjs:
-    self-contained: true
+    self-contained: false
+    chalkboard: true
 html-math-method:
   method: mathjax
   url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
@@ -23,7 +24,7 @@ author:
 **Required readings**:
   
 - [Macroeconomics in Context]{.note}, 4th ed.
-  - Chapter ??.
+  - Chapter 7, sections 2&mdash;3.
 
 
   
@@ -40,7 +41,8 @@ author:
 
   - Labor supply;
   - Labor demand;
-  - Bargaining
+  - Bargaining;
+  - Uncertainty.
 
 
 # The market for labor {background-color="#62259D"}
@@ -50,13 +52,13 @@ author:
 
 <br><br>
 
-  - In a not-too-far future from now, what [characteristics]{.note} will you be seeking in your job? (pay, opportunities, network, fulfillment, benefits, environment)
+  - In a *not-too-far* future from now, what [characteristics]{.note} will you be seeking in your job? 
   
 . . .
   
 <br>
 
-  - And what will you want to [avoid]{.note}? (long commute, dangerous, repetitive, low pay, lack of benefits)
+  - And what will you want to [avoid]{.note}? 
 
 
 ## The market for labor
@@ -71,7 +73,8 @@ $\hspace{1cm}$ &rarr; [Market]{.note}: an [institution]{.hi-slate} that facilita
 
 <br>
 
-However, [labor markets]{.hi-orange} are *different* from other markets in [several]{.note} ways. (a market in which employers interact with people who wish to work)
+However, [labor markets]{.hi-orange} are *different* from other markets in [several]{.note} ways. 
+
 
 . . .
 
@@ -88,12 +91,282 @@ However, [labor markets]{.hi-orange} are *different* from other markets in [seve
 
 ## The market for labor
 
+<br>
 
+The [labor market]{.hi-pink} can be generally understood through [two]{.note} main [actors]{.note}:
+
+. . .
+
+  - [[Workers]{.note}]{.bg-grey}: Those who [supply]{.hi-purple} labor.
+  
+  - [[Employers]{.note}]{.bg-grey}: Those who [demand]{.hi} labor.
+  
+. . .
+
+<br>
+
+These are not [static]{.hi-blue} over time.
+
+  - Determining [bargaining]{.hi-pink} positions.
 
 
 ## The market for labor
 
+<br><br>
 
-## The market for labor
+- &#128279; [[Unemployment rate over time]{.link}](https://fred.stlouisfed.org/series/UNRATE)
 
-# Next time: ??? {background-color="#62259D"}
+
+. . .
+
+<br><br>
+
+$\hspace{1cm}$&rarr; Does the [behavior]{.hi-slate} of the unemployment rate relate to [economic activity]{.hi-green}?
+
+
+# Unemployment & GDP {background-color="#62259D"}
+
+## Unemployment & GDP
+
+Unemployment tends to [rise]{.hi-pink} once a recession kicks in.
+
+. . .
+
+  - However, it [does not]{.hi-blue} usually start [rising]{.note} before a recession starts.
+  
+. . .
+
+  - Unemployment is often considered a [lagging]{.note} variable that only moves once there are *already* other signs of economic trouble.
+  
+. . .
+
+<br>
+
+[Conversely]{.note}, unemployment tends to [decrease]{.hi} in times of economic [expansion]{.hi-green}.
+
+. . .
+
+<br>
+
+This association is known as [Okun's law]{.note}.
+
+. . .
+
+- &#128279; [[Who's Okun?]{.link}](https://en.wikipedia.org/wiki/Arthur_Melvin_Okun)
+
+
+
+# Types of unemployment {background-color="#62259D"}
+
+## Types of unemployment
+
+While the [definition]{.note} of unemployment is [unique]{.hi}, those [unemployed]{.hi-slate} differ in many aspects. (education, circumstances, industry, etc.)
+
+. . .
+
+<br>
+
+Possible [explanations]{.hi-orange} for unemployment may be summarized into [three]{.hi-purple} different groups:
+
+. . .
+
+  1. [Frictional]{.note} unemployment;
+  
+  2. [Structural]{.note} unemployment;
+  
+  3. [Cyclical]{.note} unemployment.
+
+
+
+## Types of unemployment
+
+<br><br>
+
+
+
+[Frictional]{.note} unemployment:
+
+<br>
+
+  - The most "normal" kind of unemployment.
+  
+  - Mostly *voluntary.*
+
+
+## Types of unemployment
+
+<br><br>
+
+
+
+[Structural]{.note} unemployment:
+
+<br>
+
+  - Related to the [sectors]{.hi} of an economy.
+  
+  - Mostly *involuntary.*
+
+
+## Types of unemployment
+
+<br><br>
+
+[Cyclical]{.note} unemployment:
+
+<br>
+
+  - Related to the economy's [business cycles]{.hi-green}.
+  
+  - Mostly *involuntary.* 
+  
+# Theories of unemployment  {background-color="#62259D"}
+
+## Theories of unemployment
+
+Regardless of the economic [scenario]{.hi-orange}, [policymakers]{.hi-slate} are always faced with *unemployment-related* [puzzles]{.note}:
+
+<br>
+
+  - Is a [low-unemployment]{.note} level *sustainable* for longer periods of time?
+  
+  - How can we deal with [involuntary]{.note} unemployment?
+  
+  - Will the labor market [adjust]{.note} on its own?
+  
+  - How can the [government]{.note} help?
+
+
+## Theories of unemployment
+
+The "[classical]{.hi-pink}" (actually [standard]{.note}) doctrine on the functioning of labor markets can be represented through a simple [figure]{.hi-purple}:
+
+. . .
+
+![](fig1.png){fig-align="center" width="700" height="500"}
+
+
+## Theories of unemployment
+
+<br>
+
+
+
+![](fig2.png){fig-align="center" width="700" height="500"}
+
+
+## Theories of unemployment
+
+
+
+![Source: Goodwin et al. (2023)](fig3.png){fig-align="center" width="700" height="550"}
+
+
+
+
+## Theories of unemployment
+
+
+![Source: Goodwin et al. (2023)](fig4.png){fig-align="center" width="700" height="550"}
+
+## Theories of unemployment
+
+<br>
+
+[Q]{.note}: What gets in the way of [full employment]{.note}?
+
+. . .
+
+<br>
+
+[A]{.note}: Market regulations;
+
+[A]{.note}: Labor unions;
+
+[A]{.note}: "Safety net" policies.
+
+
+## Theories of unemployment
+
+The [Great Depression]{.hi-slate} strikes again...
+
+. . .
+
+[[John Maynard Keynes (1883&mdash;1946)]{.link}](https://en.wikipedia.org/wiki/John_Maynard_Keynes) and the [Principle of Effective Demand (PED)]{.note}:
+
+![](gt.png){fig-align="right" width="300" height="400"}
+
+
+## Theories of unemployment
+
+[[John Maynard Keynes (1883&mdash;1946)]{.link}](https://en.wikipedia.org/wiki/John_Maynard_Keynes) and the [Principle of Effective Demand (PED)]{.note}:
+
+. . .
+
+<br>
+
+  - [Aggregate demand]{.note}: *C + I + G + (X - M)*
+  
+. . .
+  
+  - [Aggregate supply]{.note}: The total value of [production]{.hi-blue} of final goods and services offered for sale in a given period.
+
+. . .
+
+  - Interrelationship between [time]{.note}, [uncertainty]{.note}, and [money]{.note}.
+  
+. . .
+
+$\hspace{1cm}$ &rarr; The past is [irrevocable]{.note} and the future is [unknown]{.note}.
+
+$\hspace{1cm}$ &rarr; Every action is predicated on [uncertainty]{.note}.
+
+$\hspace{1cm}$ &rarr; [Money]{.note} as a *medium of exchange* and a *store of value*.
+
+
+
+
+## Theories of unemployment
+
+[[John Maynard Keynes (1883&mdash;1946)]{.link}](https://en.wikipedia.org/wiki/John_Maynard_Keynes) and the [Principle of Effective Demand (PED)]{.note}:
+
+<br>
+
+. . .
+
+  - [Aggregate investment (*I*)]{.note} as the key component of aggregate demand.
+  
+. . .
+
+  - It links [time]{.note}, [uncertainty]{.note}, and [money]{.note} dimensions.
+  
+. . .
+
+  - Investment decisions based on [expected profits]{.note}.
+  
+. . .
+
+<br>
+
+[Q]{.note}: If future profitability expectations are [confirmed]{.hi-green}, what happens?
+
+. . .
+
+[Q]{.note}: What if [not]{.hi-red}?
+
+
+## Theories of unemployment
+
+<br><br>
+
+&#128279; [[Comparing aggregate investment and consumption over time]{.link}](https://fred.stlouisfed.org/series/GPDI)
+
+
+. . .
+
+<br><br>
+
+&#128279; [[Adding government to the picture]{.link}](https://fred.stlouisfed.org/series/FGEXPND)
+
+
+# Next time: Unemployment & reality {background-color="#62259D"}

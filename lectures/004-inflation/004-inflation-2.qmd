@@ -1,0 +1,227 @@
+---
+title: "Inflation & other aggregates"
+subtitle: "Principles of Macroeconomics // Fall 2024"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Readings {background-color="#62259D"}
+  
+  
+  
+## Recommended readings
+  
+<br>
+  
+**Required readings**:
+
+<br>
+  
+  
+## Words of the day
+  
+<br><br>
+
+- Phillips;
+- 
+
+  
+# Types of inflation {background-color="#62259D"}
+
+## Types of inflation
+
+![Source: [[The New York Times (1974)]{.link}](https://www.nytimes.com/1974/09/06/archives/there-are-three-types-of-inflation-we-have-two.html).](tbn.png){fig-align="center" width="550" height="550"}
+
+
+## Types of inflation
+
+<br>
+
+Main agreed upon [causes]{.note} of [inflation]{.hi-slate}:
+
+. . .
+
+<br>
+
+  1. [Demand-pull]{.note};
+  
+  2. [Cost-push]{.note};
+  
+  3. [Class conflict]{.note}.
+
+
+
+## Types of inflation
+
+<br>
+
+[[1]]{.note} [[Demand-pull inflation:]{.note}]{.bg-grey}
+
+. . .
+
+<br>
+
+> *"Too much money chasing too few goods."* [[(Barth & Bennett, 1975)]{.link}](https://www.jstor.org/stable/1991632?origin=crossref)
+
+. . .
+
+<br>
+
+  - Irresponsible [government]{.hi-pink}?
+  
+  - [Full]{.hi}-employment?
+
+
+## Types of inflation
+
+<br>
+
+[[1]]{.note} [[Demand-pull inflation:]{.note}]{.bg-grey}
+
+
+<br><br>
+
+&#128279; [[American Rescue Plan (2021)]{.link}](https://www.whitehouse.gov/american-rescue-plan/)
+
+
+## Types of inflation
+
+<br>
+
+[[1]]{.note} [[Demand-pull inflation:]{.note}]{.bg-grey}
+
+
+<br><br>
+
+&#128279; [[Inflation vs. unemployment over time]{.link}](https://fred.stlouisfed.org/series/UNRATE)
+
+## Types of inflation
+
+<br>
+
+[[1]]{.note} [[Demand-pull inflation:]{.note}]{.bg-grey}
+
+
+<br>
+
+
+## Types of inflation
+
+
+
+[[1]]{.note} [[Demand-pull inflation:]{.note}]{.bg-grey}
+
+
+
+
+In 1958, [[A. W. Phillips]{.link}](https://en.wikipedia.org/wiki/Bill_Phillips_(economist)) (1914—1975) [empirically]{.note} found that [low]{.hi-blue} rates of unemployment were associated with [high]{.hi-red} rates of inflation, and *high* unemployment with *low* inflation.
+
+![](phillips.png){fig-align="right" width="300" height="300"}
+
+
+## Types of inflation
+
+This relationship has since been referred to as the [[Phillips curve]{.red}]{.note}.
+
+. . .
+
+
+
+![&#128279; [[Link to original paper]{.link}](http://pombo.free.fr/phillips1958.pdf)](old_pc.png){fig-align="center" width="700" height="450"}
+
+## Types of inflation
+
+<br><br>
+
+[Q]{.note}: [How]{.hi-slate} can lower [unemployment]{.hi} lead to a general increase in the price level (i.e., [inflation]{.hi-purple})?
+
+## 
+
+![](sum1.png){fig-align="center" width="700" height="150"}
+
+
+
+![Source: *New York Post* (2023).](sum2.png){fig-align="center" width="600" height="400"}
+
+## Types of inflation
+
+<br>
+
+[[2]]{.note} [[Cost-push inflation:]{.note}]{.bg-grey}
+
+. . .
+
+
+<br>
+
+Increases in the [cost of producing]{.note} goods and services:
+
+  - Wages;
+  - Raw materials;
+  - Energy;
+  - etc.
+
+## Types of inflation
+
+<br>
+
+[[2]]{.note} [[Cost-push inflation:]{.note}]{.bg-grey}
+
+
+<br><br>
+
+&#128279; [[The lagged effects of COVID-19 supply chain disruptions on inflation (*Brookings Institute*)]{.link}](https://www.brookings.edu/articles/the-lagged-effects-of-covid-19-supply-chain-disruptions-on-inflation/)
+
+
+## Types of inflation
+
+[[2]]{.note} [[Cost-push inflation:]{.note}]{.bg-grey}
+
+
+::::{.columns}
+
+
+
+
+::: {.column width="50%"}
+
+![](adele.png){fig-align="left" width="700" height="500"}
+
+:::
+
+::: {.column width="50%"}
+
+
+![Source: *El Pais* (2023).](adele2.png){fig-align="right" width="650" height="200"}
+
+:::
+
+::::
+
+## Types of inflation
+
+<br>
+
+[[2]]{.note} [[Cost-push inflation:]{.note}]{.bg-grey}
+
+
+<br><br>
+
+&#128279; [[Europe's energy crisis is over (*Reuters*)]{.link}](https://www.reuters.com/business/energy/europes-energy-crisis-is-over-kemp-2023-11-28/)
+
+
+## Types of inflation
+
+<br>
+
+[[3]]{.note} [[Conflict inflation:]{.note}]{.bg-grey}
+
+
+# Next time: {background-color="#62259D"}

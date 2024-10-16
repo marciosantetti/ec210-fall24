@@ -1,0 +1,104 @@
+---
+title: "(Un)employment & reality"
+subtitle: "Principles of Macroeconomics // Fall 2024"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Readings {background-color="#62259D"}
+  
+  
+  
+## Recommended readings
+  
+<br>
+  
+**Required readings**:
+  
+- [Macroeconomics in Context]{.note}, 4th ed.
+  - Chapter 7, sections ???.
+
+
+
+  
+
+
+
+# Wrapping up {background-color="#62259D"}
+
+## Wrapping up
+
+<br>
+
+In a [dynamic]{.hi-orange} economy, some unemployment is [normal]{.note}.
+
+. . .
+
+  - Future [expectations]{.note} are not perfect, and there will always be a [disconnect]{.note} between available *jobs*, *information* and the *supply* of workers.
+
+
+. . .
+
+<br>
+
+Among the main types of unemployment, the most [serious]{.note} type is [involuntary]{.hi-slate}.
+
+. . .
+
+  - It [signals]{.note} that the economy is unable to adequately *provision* for all of its members.
+
+
+
+# Looking at reality {background-color="#62259D"}
+
+
+## Looking at reality
+
+<br><br>
+
+[[Labor Market Shows Unexpected Strength (*NYT*)]{.link}](https://www.nytimes.com/2024/10/04/business/economy/jobs-report-september.html)
+
+. . .
+
+<br>
+
+[[U.S. Jobs Report Shows Hiring Has Shifted Into Lower Gear (August 2024 labor market report, *NYT*)]{.link}](https://www.nytimes.com/2024/09/06/business/economy/jobs-report-august-2024.html)
+
+. . .
+
+<br>
+
+[[U.S. average hourly earnings]{.link}](https://fred.stlouisfed.org/series/CES0500000003)
+
+
+
+## Looking at reality
+
+
+<br><br>
+
+[[Why This Jobs Report Could Be the Most Pivotal One in Years (*NYT*, September 2024)]{.link}](https://www.nytimes.com/2024/09/05/business/economy/jobs-report-federal-reserve.html)
+
+. . .
+
+<br>
+
+[[U.S. Underemployment rate]{.link}](https://fred.stlouisfed.org/series/U6RATE)
+
+
+## Looking at reality
+
+<br><br>
+
+[[The Hot Labor Market Has Melted Away. Just Ask New College Grads (*NYT*)]{.link}](https://www.nytimes.com/2024/09/05/business/economy/jobs-college-graduates-unemployment.html)
+
+
+
+# Next time: Inflation 👻 {background-color="#62259D"}

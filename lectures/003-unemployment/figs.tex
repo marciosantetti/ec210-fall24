@@ -1,0 +1,47 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{tikz}
+\usepackage{amssymb}
+\begin{document}
+
+
+\begin{center}
+	\begin{tikzpicture}
+	\draw[->,thin] (0,0)--(5,0) node[right]{};
+	\draw[->,thin] (0,0)--(0,4) node[above]{};
+	\draw (0,2) node[left]{};
+	\draw (2.5,0) node[below]{};
+	\end{tikzpicture}
+	\end{center}
+
+
+
+\begin{center}
+	\begin{tikzpicture}
+	\draw[->,thin] (0,0)--(5,0) node[right]{Labor};
+	\draw[->,thin] (0,0)--(0,4) node[above]{Wage};
+	\draw (0,2) node[left]{};
+	\draw (2.5,0) node[below]{};
+	\end{tikzpicture}
+	\end{center}
+
+
+\bigskip	
+	
+\begin{center}
+	\begin{tikzpicture}
+	\draw[->,thin] (0,0)--(5,0) node[right]{Employment rate ($e$)};
+	\draw[->,thin] (0,0)--(0,4) node[above]{Wage share ($\psi$)};
+	\draw [black, dotted]  (2.5,0)--(2.5,4) node[right]{};
+	\draw [black, dotted]  (0,2)--(5,2) node[right]{};
+	\draw [->, dashed] (2.5,2) circle (.5cm);
+	\draw [->, thick] (2.5,1.5)--(2.65,1.5);
+	\draw [->, thick] (2.5,2.5)--(2.4,2.5);
+	\end{tikzpicture}
+	\end{center}
+
+
+
+\end{document}
