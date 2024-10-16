@@ -69,6 +69,12 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
 <br>
 
+**007: (Un)employment: The labor market**
+
+  - Slides: [`html`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/003-unemployment/003-unemp-2.html) | [`pdf`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/003-unemployment/003-unemp-2.pdf)
+
+<br>
+
 ## Assignments
 
 <br>
@@ -78,6 +84,8 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 <br>
 
   - [`Mini Project 1`](https://raw.githack.com/marciosantetti/ec210-fall24/main/mini-projects/mp1-fall24.pdf) (due 10/03, before class)
+
+  - [`Mini Project 2`](https://raw.githack.com/marciosantetti/ec210-fall24/main/mini-projects/mp2-fall24.pdf) (due 11/07, before class)
 
 
 <br>
