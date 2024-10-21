@@ -14,23 +14,28 @@ author:
   
 # Readings {background-color="#62259D"}
   
+
   
-  
-## Recommended readings
+## Readings
   
 <br>
   
 **Required readings**:
 
-<br>
+
   
+- [[There Are Three Types of Inflation; We Have Two (*NYT*, 1974)]{.link}](https://www.nytimes.com/1974/09/06/archives/there-are-three-types-of-inflation-we-have-two.html);
+
+- [[Policy choices did not cause recent years’ inflation—but did deliver strong wage growth (*Economic Policy Institute*)]{.link}](https://www.epi.org/blog/policy-choices-did-not-cause-recent-years-inflation-but-did-deliver-strong-wage-growth/).
   
 ## Words of the day
   
 <br><br>
 
+- Demand-pull;
+- Cost-push;
 - Phillips;
-- 
+- Class conflict.
 
   
 # Types of inflation {background-color="#62259D"}
@@ -102,14 +107,7 @@ Main agreed upon [causes]{.note} of [inflation]{.hi-slate}:
 
 &#128279; [[Inflation vs. unemployment over time]{.link}](https://fred.stlouisfed.org/series/UNRATE)
 
-## Types of inflation
 
-<br>
-
-[[1]]{.note} [[Demand-pull inflation:]{.note}]{.bg-grey}
-
-
-<br>
 
 
 ## Types of inflation
@@ -219,9 +217,46 @@ Increases in the [cost of producing]{.note} goods and services:
 
 ## Types of inflation
 
+
+
+[[2]]{.note} [[Cost-push inflation:]{.note}]{.bg-grey}
+
+- [Greedy]{.note} corporations?
+
+![Source: [[Economic Policy Institute (2024)]{.link}](https://www.epi.org/blog/profits-and-price-inflation-are-indeed-linked/).](profits.png){fig-align="center" width="550" height="400"}
+
+
+## Types of inflation
+
 <br>
 
 [[3]]{.note} [[Conflict inflation:]{.note}]{.bg-grey}
 
+. . .
 
-# Next time: {background-color="#62259D"}
+<br>
+
+  - Conflicting [claims]{.note} over [income distribution]{.hi-pink};
+  
+  - Who's to [blame]{.note}?
+
+## Types of inflation
+
+
+
+[[3]]{.note} [[Conflict inflation:]{.note}]{.bg-grey}
+
+![Source: NYT (2022).](nyt.png){fig-align="center" width="1000" height="450"}
+
+## Types of inflation
+
+
+
+[[3]]{.note} [[Conflict inflation:]{.note}]{.bg-grey}
+
+<br>
+
+![Source: NYT (2024).](ports.png){fig-align="center" width="800" height="300"}
+
+
+# Next time: Inflation & the Central Bank {background-color="#62259D"}

@@ -11,25 +11,8 @@ html-math-method:
 author:
   - name: Prof. Santetti
 ---
-  
-# Readings {background-color="#62259D"}
-  
-  
-  
-## Recommended readings
-  
-<br>
-  
-**Required readings**:
-  
-- [Macroeconomics in Context]{.note}, 4th ed.
-  - Chapter 7, sections ???.
-
-
 
   
-
-
 
 # Wrapping up {background-color="#62259D"}
 

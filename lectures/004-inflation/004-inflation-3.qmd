@@ -1,0 +1,154 @@
+---
+title: "Inflation & Central Banks"
+subtitle: "Principles of Macroeconomics // Fall 2024"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Readings {background-color="#62259D"}
+  
+
+  
+## Readings
+  
+<br>
+  
+**Required readings**:
+
+
+  
+
+## Words of the day
+
+
+# Inflation & money {background-color="#62259D"}
+
+
+## Inflation & money
+
+<br>
+
+As we have seen previously, one of the main [problems]{.hi} caused by inflation is that it deteriorates the [value of money]{.hi-green}.
+
+. . .
+
+  - In particular, money loses its [store of value]{.note} property.
+  
+. . .
+
+<br>
+
+Time to dig deeper into [money]{.hi-green} and its role in the (macro)economy.
+
+
+# Roles of money {background-color="#62259D"}
+
+## Roles of money
+
+<br>
+
+[Money]{.hi-green} exists in many different [forms]{.note}.
+
+. . .
+
+  - Cash, bank accounts, and electronic payment systems, for example.
+  
+. . .
+
+<br>
+
+In more general terms, [money]{.hi-green} is *anything* that satisfies [three specific roles]{.note}:
+
+. . .
+
+  1. [Medium of exchange]{.note};
+  
+  2. [Store of value]{.note};
+  
+  3. [Unit of account]{.note}.
+  
+
+
+
+## Roles of money
+
+
+[[[1] Medium of exchange:]{.note}]{.bg-grey}
+  
+  - The accepted [token]{.hi} for sales and purchases.
+  - Avoids the "[double coincidence of wants]{.note}" problem.
+
+
+. . .
+
+
+[[[2] Store of value:]{.note}]{.bg-grey}
+
+  - A way of [holding wealth]{.hi-blue}.
+  - The most [liquid]{.note} asset.
+
+
+. . .
+
+
+[[[3] Unit of account:]{.note}]{.bg-grey}
+
+  - Monetary units define the [value]{.hi-pink} of goods and services.
+
+
+## Roles of money
+
+
+
+<br><br>
+
+  - What makes us [believe]{.note} that [money]{.hi-green} is [money]{.hi-green}?
+
+*(gold, fiat money, etc.)*
+
+# How money is created {background-color="#62259D"}
+
+
+## How money is created
+
+. . .
+
+<br>
+
+When it comes to money [creation]{.hi-pink}, we may distinguish between:
+
+
+
+  - Money [production]{.note} and [printing]{.note};
+  
+  - Money creation through [deposits.]{.note}
+
+. . .
+
+<br>
+
+The [banking system]{.hi-grey}:
+
+  - [Fractional]{.note} reserve system;
+  
+  - [Required]{.note} reserves;
+  
+  - [Excess]{.note} reserves.
+
+
+
+# Central Banks
+
+## Central Banks
+
+> *"A central bank is responsible for issuing money, conducting monetary policy, maintaining currency stability and overseeing the nation’s banking system, while acting as a lender of last resort"*
+
+
+# Next time: Inflation & the Central Bank {background-color="#62259D"}
