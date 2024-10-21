@@ -73,6 +73,13 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
   - Slides: [`html`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/003-unemployment/003-unemp-2.html) | [`pdf`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/003-unemployment/003-unemp-2.pdf)
 
+
+<br>
+
+**008: (Un)employment & reality**
+
+  - Slides: [`html`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/003-unemployment/003-unemp-3.html) | [`pdf`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/003-unemployment/003-unemp-3.pdf)
+
 <br>
 
 ## Assignments
