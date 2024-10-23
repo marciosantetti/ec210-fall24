@@ -80,6 +80,14 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
   - Slides: [`html`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/003-unemployment/003-unemp-3.html) | [`pdf`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/003-unemployment/003-unemp-3.pdf)
 
+
+<br>
+
+**009: Inflation: Basic definitions**
+
+  - Slides: [`html`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/004-inflation/004-inflation-1.html) | [`pdf`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/004-inflation/004-inflation-1.pdf)
+
+
 <br>
 
 ## Assignments
