@@ -100,7 +100,7 @@ The most common are:
 
   - The [Consumer Price Index]{.note} (CPI);
   
-  - The [Personal Consumption Expenditure Deflator]{.note} (PCE);
+  - The [Personal Consumption Expenditure Deflator]{.note} (PCE).
   
 
 
@@ -109,13 +109,13 @@ The most common are:
 
 <br>
 
-The [Consumer Price Index]{.note} (CPI) is a the most [popular]{.hi-red} inflation measure across media outlets.
+The [Consumer Price Index]{.note} (CPI) is the most [popular]{.hi-red} inflation measure across media outlets.
 
 . . .
 
 <br>
 
-  - Released by the [U.S. Bureau of Labor Statistics]{.hi-blue} (BLS), the CPI measures the average change over time in the prices paid by consumers for a representative basket of consumer goods and services.
+  - Released by the [U.S. Bureau of Labor Statistics]{.hi-blue} (BLS), the CPI measures the average change over time in the prices paid by consumers for a [representative basket of consumer goods and services]{.note}.
   
 . . .
 
@@ -149,6 +149,7 @@ The CPI compiles data on expenditure items into more than [200]{.hi-purple} cate
 library(tidyverse)
 library(scales)
 library(hrbrthemes)
+library(ggeasy)
 
 
 
@@ -175,15 +176,18 @@ cex <- cex %>%
 cex %>% 
   mutate(components = fct_reorder(components, share)) %>% 
   ggplot(aes(x = share, y = components)) +
-  geom_col(alpha = 0.7) +
+  geom_col(alpha = 0.5, color = "black") +
   scale_x_continuous(labels = percent_format(scale = 1),
                      breaks = seq(5, 50, 5)) +
   labs(y = "",
        x = "",
        title = "Consumer Price Index: Basket of goods",
        subtitle = "% share (December 2023)",
-       caption = "Source: US Bureau of Labor Statistics.") +
-  theme_ipsum_rc(base_size = 17)
+       caption = "Source: U.S. Bureau of Labor Statistics.") +
+  theme_ipsum_rc(base_size = 17) +
+  easy_plot_caption_size(17) +
+  easy_plot_title_size(20) +
+  easy_plot_subtitle_size(16)
 ```
 
 
@@ -270,7 +274,7 @@ Back to the [Consumer Price Index]{.note} (CPI).
   - Two [independent]{.note} data collection surveys: 
   
       - [Quarterly Interview]{.note} (monthly *out-of-pocket* expenditures);
-      - [weekly Diary survey]{.note} (weekly expenditures of *frequently* purchased items).
+      - [Weekly Diary survey]{.note} (weekly expenditures of *frequently* purchased items).
 
 . . .
 
