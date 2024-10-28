@@ -21,11 +21,21 @@ author:
 <br>
   
 **Required readings**:
+  
+- [Macroeconomics in Context]{.note}, 4th ed.
+  - Chapter 11, sections 1&mdash;2.
 
 
   
 
 ## Words of the day
+
+<br>
+
+- Money functions;
+- Central Banks;
+- Open Market Operations;
+- Federal Funds Rate.
 
 
 # Inflation & money {background-color="#62259D"}
@@ -148,7 +158,154 @@ The [banking system]{.hi-grey}:
 
 ## Central Banks
 
-> *"A central bank is responsible for issuing money, conducting monetary policy, maintaining currency stability and overseeing the nation’s banking system, while acting as a lender of last resort"*
+<br>
+
+> *"A central bank is responsible for issuing money, conducting monetary policy, maintaining currency stability and overseeing the nation’s banking system, while acting as a lender of last resort."* (Reardon et al., 2018)
+
+. . .
+
+<br>
+
+  - &#128279; [[The bank panic of 1907]{.link}](https://teachdemocracy.org/images/pdf/jpmorgan.pdf)
+  
+. . .
+
+<br>
+
+  - &#128279; [[The U.S. Federal Reserve Act of 1913]{.link}](https://www.federalreserve.gov/aboutthefed/fract.htm)
+  
+
+## Central Banks
 
 
-# Next time: Inflation & the Central Bank {background-color="#62259D"}
+:::: {.columns .incremental}
+
+::: {.column}
+
+[[Structure:]{.note}]{.bg-grey}
+
+  - Board of [7]{.note} governors;
+  - Non-renewable [14]{.note}-year terms;
+  - [4]{.note}-year term chair;
+  - Based in Washington, DC.
+
+
+:::
+
+
+::: {.column .fragment}
+
+
+- Twelve [Regional]{.note} Federal Reserve Banks:
+
+  - Atlanta
+  - Boston
+  - Chicago
+  - Cleveland
+  - Dallas
+  - Kansas City
+  - Minneapolis
+  - New York
+  - Philadelphia
+  - Richmond
+  - St. Louis
+  - San Francisco
+
+:::
+
+::::
+
+
+
+## Central Banks
+
+<br>
+
+
+[[Dual mandate:]{.note}]{.bg-grey}
+
+<br>
+
+. . .
+
+  - Maximum [employment]{.note};
+  - Stable [prices]{.note}.
+  
+. . .
+
+<br>
+
+These two objectives guide the Fed's [monetary policy]{.note}.
+
+# Monetary policy {background-color="#62259D"}
+
+## Monetary policy
+
+<br>
+
+Central Banks play an [active]{.note} role in the macroeconomy through [monetary policy]{.hi-purple}.
+
+. . .
+
+<br>
+
+> [Monetary policy]{.hi-purple} involves influencing the economy through changes in the banking system's [reserves]{.hi}, thus affecting the [supply of money]{.note} and the [availability of credit]{.note}.
+
+. . .
+
+<br>
+
+The [main]{.hi-pink} monetary policy tool is [targeting interest rates]{.hi-slate}.
+
+## Monetary policy
+
+Basically, [monetary policy]{.hi-purple} addresses [two]{.note} main problems:
+
+. . .
+
+  - [How much money in the economy?]{.note}
+  
+  - [How costly to obtain money?]{.note}
+  
+. . .
+
+
+<br>
+
+To these ends, the Central Bank has [three]{.hi} main [tools]{.note}:
+
+. . .
+
+  - [Open Market Operations]{.link};
+  
+  - [Discount rate]{.link};
+  
+  - [Reserve requirements]{.link}.
+  
+. . .
+
+The [last two]{.note} are responsibility of the [Board of Governors]{.hi-pink}, while the [first]{.note} is determined by the [Federal Open Market Committee (FOMC)]{.hi-grey}.
+
+
+## Monetary policy
+
+
+<br><br>
+
+The [most important]{.hi-red} of these three tools are [Open Market Operations]{.note}.
+
+. . .
+
+<br>
+
+Let us use the [board]{.note} to better understand how these take place in the macroeconomy.
+
+
+## Monetary policy
+
+<br>
+
+![[[By JW Mason]{.link}](https://jwmason.org)](chart.png){fig-align="center" width="900" height="500"}
+
+
+# Next time: Inflation & reality {background-color="#62259D"}

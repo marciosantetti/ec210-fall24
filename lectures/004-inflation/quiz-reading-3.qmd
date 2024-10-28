@@ -1,0 +1,24 @@
+---
+title: "Quiz reading #3"
+subtitle: "Principles of Macroeconomics // Fall 2024"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: false
+    chalkboard: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+
+## Quiz reading
+
+<br>
+
+⚠️ **Required listening** for next [quiz]{.note} (due 11/5, before class): ⚠️
+
+  &#128279; [["Rate Expectations: What it means that the Fed is about to lower interest rates" (*Planet Money Podcast, NPR*)]{.link}](https://www.npr.org/2024/09/13/1199208521/fomc-mortgage-rates-interest-fed-jerome-powell).
+  
+
