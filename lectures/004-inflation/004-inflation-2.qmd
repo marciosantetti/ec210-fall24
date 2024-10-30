@@ -26,6 +26,8 @@ author:
   
 - [[There Are Three Types of Inflation; We Have Two (*NYT*, 1974)]{.link}](https://www.nytimes.com/1974/09/06/archives/there-are-three-types-of-inflation-we-have-two.html);
 
+- [[The Great Inflation: 1965&mdash;1982 (*U.S. Federal Reserve History*)]{.link}](https://www.federalreservehistory.org/essays/great-inflation);
+
 - [[Policy choices did not cause recent years’ inflation—but did deliver strong wage growth (*Economic Policy Institute*)]{.link}](https://www.epi.org/blog/policy-choices-did-not-cause-recent-years-inflation-but-did-deliver-strong-wage-growth/).
   
 ## Words of the day
@@ -59,7 +61,7 @@ Main agreed upon [causes]{.note} of [inflation]{.hi-slate}:
   
   2. [Cost-push]{.note};
   
-  3. [Class conflict]{.note}.
+  3. [Class conflict (aka wage-price spiral)]{.note}.
 
 
 
@@ -73,7 +75,7 @@ Main agreed upon [causes]{.note} of [inflation]{.hi-slate}:
 
 <br>
 
-> *"Too much money chasing too few goods."* [[(Barth & Bennett, 1975)]{.link}](https://www.jstor.org/stable/1991632?origin=crossref)
+> *"Too much money chasing too few goods."*
 
 . . .
 
@@ -82,6 +84,25 @@ Main agreed upon [causes]{.note} of [inflation]{.hi-slate}:
   - Irresponsible [government]{.hi-pink}?
   
   - [Full]{.hi}-employment?
+  
+## Types of inflation
+
+<br>
+
+[[1]]{.note} [[Demand-pull inflation:]{.note}]{.bg-grey}
+
+
+
+<br>
+
+Recall [aggregate demand]{.note}:
+
+<br>
+
+
+$$
+C+I+G+(X - M)
+$$
 
 
 ## Types of inflation
@@ -120,6 +141,8 @@ Main agreed upon [causes]{.note} of [inflation]{.hi-slate}:
 
 
 In 1958, [[A. W. Phillips]{.link}](https://en.wikipedia.org/wiki/Bill_Phillips_(economist)) (1914—1975) [empirically]{.note} found that [low]{.hi-blue} rates of unemployment were associated with [high]{.hi-red} rates of inflation, and *high* unemployment with *low* inflation.
+
+. . .
 
 ![](phillips.png){fig-align="right" width="300" height="300"}
 
@@ -258,5 +281,14 @@ Increases in the [cost of producing]{.note} goods and services:
 
 ![Source: NYT (2024).](ports.png){fig-align="center" width="800" height="300"}
 
+
+## Types of inflation
+
+
+
+[[3]]{.note} [[Conflict inflation:]{.note}]{.bg-grey}
+
+
+![](stop.png){fig-align="center" width="1100" height="500"}
 
 # Next time: Inflation & the Central Bank {background-color="#62259D"}
