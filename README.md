@@ -88,6 +88,11 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
   - Slides: [`html`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/004-inflation/004-inflation-1.html) | [`pdf`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/004-inflation/004-inflation-1.pdf)
   - *Fed & interest rates Quiz* instructions: [`html`](https://raw.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/004-inflation/quiz-reading-3.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/004-inflation/quiz-reading-3.pdf)
 
+<br>
+
+**010: Inflation & other aggregates**
+
+  - Slides: [`html`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/004-inflation/004-inflation-2.html) | [`pdf`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/004-inflation/004-inflation-2.pdf)
 
 <br>
 
