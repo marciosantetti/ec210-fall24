@@ -96,6 +96,12 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
 <br>
 
+**011: Inflation & Central Banks**
+
+  - Slides: [`html`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/004-inflation/004-inflation-3.html) | [`pdf`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/004-inflation/004-inflation-3.pdf)
+
+<br>
+
 ## Assignments
 
 <br>
