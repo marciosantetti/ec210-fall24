@@ -276,11 +276,11 @@ To these ends, the Central Bank has [three]{.hi} main [tools]{.note}:
 
 . . .
 
-  - [Open Market Operations]{.link};
+  - [[Open Market Operations]{.link}](https://www.federalreserve.gov/monetarypolicy/openmarket.htm);
   
-  - [Discount rate]{.link};
+  - [[Discount rate]{.link}](https://www.federalreserve.gov/monetarypolicy/discountrate.htm);
   
-  - [Reserve requirements]{.link}.
+  - [[Reserve requirements]{.link}](https://www.federalreserve.gov/monetarypolicy/reservereq.htm).
   
 . . .
 

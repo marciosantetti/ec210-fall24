@@ -19,24 +19,65 @@ author:
 ## Wrapping up
 
 
+<br><br><br>
+
+Now that we are better equipped to understand the functioning of a country's macroeconomy, let us investigate how [inflation]{.note} is treated in media outlets.
+
+. . .
+
 <br>
 
-Brief comments here.
+But first, how is [monetary policy]{.hi-purple} communicated?
 
-
-## Inflation & reality
 
 
 
 ## Inflation & reality
 
+<br><br>
+
+
+
+[[U.S. Federal Reserve's meeting calendar]{.link}](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)
+
+## Inflation & reality
+
+<br>
+
+
+[[Fed prepares rate cut amid economic contradictions (*WSJ*)]{.link}](https://archive.is/lOwgY)
+
+
+. . .
+
+
+<br>
+
+
+[[Inflation Is Basically Back to Normal. Why Do Voters Still Feel Blah? (*NYT*)]{.link}](https://www.nytimes.com/2024/10/31/business/economy/inflation-prices-economy.html)
+
+. . .
+
+<br>
+
+
+
+[[Wages Have Outpaced Inflation. But Not for Everyone. (*NYT*)]{.link}](https://www.nytimes.com/2024/10/28/business/economy/inflation-wages-pay-salaries.html)
 
 
 ## Inflation & reality
 
 
+<br><br>
 
-## Inflation & reality
+What about [profits]{.note}?
+
+. . .
+
+<br>
+
+[[Isabella Weber on the Big Inflation Rethink | Odd Lots podcast (*Bloomberg*)]{.link}](https://www.youtube.com/watch?v=UaY-v49RhGQ)
+
 
 
 # Next time: Government & fiscal policy {background-color="#62259D"}
