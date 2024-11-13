@@ -114,6 +114,8 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
   - [`Mini Project 2`](https://raw.githack.com/marciosantetti/ec210-fall24/main/mini-projects/mp2-fall24.pdf) (due 11/07, before class)
 
+  - [`Mini Project 3`](https://raw.githack.com/marciosantetti/ec210-fall24/main/mini-projects/mp3-fall24.pdf) (due 12/05, before class)
+
 
 <br>
 
