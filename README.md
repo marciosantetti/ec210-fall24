@@ -102,6 +102,12 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
 <br>
 
+**012: Inflation & reality**
+
+  - Slides: [`html`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/004-inflation/004-inflation-4.html) | [`pdf`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/004-inflation/004-inflation-4.pdf)
+
+<br>
+
 ## Assignments
 
 <br>
