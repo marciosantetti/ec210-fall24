@@ -1,0 +1,45 @@
+---
+title: "Fiscal policy & reality"
+subtitle: "Principles of Macroeconomics // Fall 2024"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Wrapping up {background-color="#62259D"}
+  
+  
+  
+## Wrapping up
+
+<br><br><br><br>
+
+Let us further study how [fiscal policy]{.hi-blue} is treated in [media outlets]{.note}.
+
+
+## Wrapping up
+
+<br><br>
+
+- &#128279; [[Central Bank of Turkey keeps key interest rate unchanged (*Euronews*)]{.link}](https://www.euronews.com/business/2024/11/21/central-bank-of-turkey-keeps-key-interest-rate-unchanged)
+
+. . .
+
+- &#128279; [[Rachel Reeves: My fiscal rules will provide the stability on which growth depends (*Financial Times*)]{.link}](https://archive.is/fqdiH)
+
+. . .
+
+- &#128279; [[Global Economic Leaders Confront a New Era of Industrial Policy (*NYT*)]{.link}](https://www.nytimes.com/2024/10/26/us/politics/neoliberalism-trump-global-economy.html)
+
+. . .
+
+
+- &#128279; [[Brazil’s Weakening Fiscal Framework and its Impact on Businesses (*Covington Global Policy Watch*)]{.link}](https://www.globalpolicywatch.com/2024/07/brazils-weakening-fiscal-framework-and-its-impact-on-businesses/)
+
+# Next time: ??? {background-color="#62259D"}

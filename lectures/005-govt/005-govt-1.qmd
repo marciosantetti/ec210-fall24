@@ -1,5 +1,5 @@
 ---
-title: "Inflation: Basic definitions"
+title: "Governments & fiscal policy"
 subtitle: "Principles of Macroeconomics // Fall 2024"
 institute: "marcio.santetti@emerson.edu"
 format: 
@@ -22,324 +22,236 @@ author:
   
 **Required readings**:
   
+- [Macroeconomics in Context]{.note}, 4th ed.
+  - Chapter 9, Introduction, sections 1.2&mdash;1.4, 2.1.
 
-- &#128279; [[Consumer Price Index FAQs (*BLS*)]{.link}](https://www.bls.gov/cpi/questions-and-answers.htm)
 
-- &#128279; [[Consumer Expenditure surveys FAQs (*BLS*)]{.link}](https://www.bls.gov/cex/csxfaqs.htm)
-
-  
-<br>
-
-**Recommended listening**:
-
-- &#128279; [[Planet Money Podcast: Inflation & drinking buddies (*NPR*)]{.link}](https://www.npr.org/2022/08/03/1115430369/planet-money-summer-school-4-inflation-drinking-buddies)
   
   
 ## Words of the day
   
 <br><br>
 
-- CPI;
-- PCE.
+- Spending;
+- Bonds;
+- Budget.
   
-# Measuring inflation {background-color="#62259D"}
+# When governments step in {background-color="#62259D"}
 
-## Measuring inflation
+## When governments step in
 
-<br>
 
-As of September 2024, the U.S. [inflation rate]{.note}, measured by the [Consumer Price Index (CPI)]{.hi-slate}, is of [0.2%]{.note}.
 
-. . . 
-
-<br><br>
-
-  - How do you [interpret]{.note} this statistic?
-
-## Measuring inflation
-
-<br>
-
-[Inflation]{.note} is defined as the [percentage change]{.hi-slate} in the *price index* over a given time period.
+In times of [recession]{.hi}, solely relying on [monetary policy]{.hi-purple} to stimulate the economy may not be enough.
 
 . . .
 
-  - An economy's [price index]{.hi-slate} is an [index number]{.note} arbitrarily set to 1 or 100 for a certain period.
-  
-  - The price index then increases (decreases) for each subsequent year by the [rate of inflation]{.note} (deflation/disinflation).
+<br>
+
+The usual recipe involves a [policy mix]{.note}:
+
+  - [Monetary]{.note} +
+  - [Fiscal]{.note} policies.
   
 . . .
 
-The [inflation rate]{.note} is nothing but the [growth rate]{.hi-pink} of a price index:
+
+
+> [Fiscal]{.hi-blue} policy encompasses how governments manage their [budget]{.note}&mdash;namely what governments [spend]{.note}, how they [get]{.note} the money that they   spend, and the [effects]{.note} of these activities on GDP levels.
+
+## When governments step in
+
+[Fiscal]{.hi-blue} policy adds another component to [Aggregate Demand (AD)]{.note}:
 
 <br>
 
 $$
-\small \text{Inflation rate (%)} = \dfrac{\text{Final period's price index - Initial period's price index}}{\text{Initial period's price index}} \times 100
+\text{AD} = C + I + G
 $$
 
-
-## Measuring inflation
-
-<br>
-
-When defining inflation, the term [price index]{.hi} was used.
-
-. . .
-
-This leads to the question of [what prices]{.hi-purple} we are considering.
-
-. . .
-
-In the U.S., there are a number of [different]{.note} measures of inflation.
-
-. . .
-
-The most common are:
-
-
-  - The [Consumer Price Index]{.note} (CPI);
-  
-  - The [Personal Consumption Expenditure Deflator]{.note} (PCE).
-  
-
-
-
-## Measuring inflation
-
-<br>
-
-The [Consumer Price Index]{.note} (CPI) is the most [popular]{.hi-red} inflation measure across media outlets.
-
 . . .
 
 <br>
 
-  - Released by the [U.S. Bureau of Labor Statistics]{.hi-blue} (BLS), the CPI measures the average change over time in the prices paid by consumers for a [representative basket of consumer goods and services]{.note}.
-  
-. . .
-
-Its purpose is to  reflect inflation as experienced by consumers in their [day-to-day living expenses]{.note}.
-
-## Measuring inflation
-
-<br>
-
-The CPI compiles data on expenditure items into more than [200]{.hi-purple} categories, arranged into [8 major groups]{.hi}:
-
-  1. Food and beverages;
-  2. Housing (shelter);
-  3. Apparel;
-  4. Transportation;
-  5. Medical care;
-  6. Recreation;
-  7. Education and communication;
-  8. Other goods and services.
-
-
-## Measuring inflation
-
-```{r}
-#| echo: false
-#| fig-width: 17
-#| fig-height: 10
-#| dev: svg
-
-
-library(tidyverse)
-library(scales)
-library(hrbrthemes)
-library(ggeasy)
-
-
-
-
-
-cex <- tibble(
-  "Shelter" = 36.191,
-  "Food" = 14.409,
-  "Transportation" = 15.898,
-  "Energy" = 6.655,
-  "Medical care" = 8.004,
-  "Education and Communication" = 5.906,
-  "Apparel" = 2.512,
-  "Recreation"= 5.307,
-  "Other goods and services" = 2.899
-)
-
-
-cex <- cex %>% 
-  pivot_longer(cols = Shelter:`Other goods and services`,
-               names_to = "components",
-               values_to = "share")
-
-cex %>% 
-  mutate(components = fct_reorder(components, share)) %>% 
-  ggplot(aes(x = share, y = components)) +
-  geom_col(alpha = 0.5, color = "black") +
-  scale_x_continuous(labels = percent_format(scale = 1),
-                     breaks = seq(5, 50, 5)) +
-  labs(y = "",
-       x = "",
-       title = "Consumer Price Index: Basket of goods",
-       subtitle = "% share (December 2023)",
-       caption = "Source: U.S. Bureau of Labor Statistics.") +
-  theme_ipsum_rc(base_size = 17) +
-  easy_plot_caption_size(17) +
-  easy_plot_title_size(20) +
-  easy_plot_subtitle_size(16)
-```
-
-
-
-## Measuring inflation
-
-<br><br><br>
-
-&#128279; [[What lies in each category?]{.link}](https://www.bls.gov/cpi/tables/relative-importance/2023.htm)
-
-
-## Measuring inflation
-
-Before moving on...
+$$
+\text{AD} = \underbrace{C + I}_{\text{private sector}} + \underbrace{G}_{\text{public sector}}
+$$
 
 . . .
-
-[Q]{.note}: Why should we [care]{.note} about inflation?
-  
-
-. . .
-
-<br>
-
-
-[A]{.note}: Inflation [deteriorates]{.hi-red} the [purchasing power]{.hi-green} of money.
-
-. . .
-
-<br>
-
-  - Recall that one of the [functions]{.note} of money is to [store value]{.hi-orange}.
-  
-. . .
-
-  - Given that, US$ 1,000 have [different]{.note} value properties when the inflation rate is [0.2%]{.note} and [5%]{.note}.
-  
-. . .
-
-$\hspace{2cm}$  $\cdot$ Why?
-
-      
-## Measuring inflation
-
-Back to the [Consumer Price Index]{.note} (CPI).
-
-. . .
-
-
-[[**WHO**]{.note}]{.bg-grey}
-
-. . .
-
-[Q]{.note}: What is the [sample]{.note} for the CPI?
-
-. . .
-
-[A]{.note}: **2** population groups:
-
-  - All [Urban]{.note} Consumers (CPI-U);
-  
-      - $\approx$ [90%]{.note} of the population.
-
-  
-  - Urban [Wage]{.note} Earners and [Clerical]{.note} Workers (CPI-W).
-  
-      - $\approx$ [30%]{.note} of the population.
-
-
-## Measuring inflation
-
-[[**WHO**]{.note}]{.bg-grey}
-
-. . .
-
-[Q]{.note}: What is the [sample]{.note} for the CPI?
-
-. . .
-
-<br>
-
-[A]{.note}: [Consumer Expenditure]{.note} (CE) surveys conducted by the U.S. Census Bureau on behalf of the BLS.
-
-  - Two [independent]{.note} data collection surveys: 
-  
-      - [Quarterly Interview]{.note} (monthly *out-of-pocket* expenditures);
-      - [Weekly Diary survey]{.note} (weekly expenditures of *frequently* purchased items).
-
-. . .
-
-  - $\approx$ 7,000 households.
-
-
-## Measuring inflation
-
 
 <br><br>
 
-&#128279; [[How the Consumer Price Index Measures Inflation (*WSJ*)]{.link}](https://www.youtube.com/watch?v=oRdLvp6H3CU)
+For now, we are [ignoring]{.hi-pink} the [foreign]{.note} sector (*X - M*).
 
-## Measuring inflation
+## When governments step in
 
-[Food]{.hi-green} and [energy]{.hi-pink} tend to be the most [volatile]{.note} components of the CPI.
+<br>
 
-. . .
-
-To address this issue, we have the [Core CPI]{.hi-purple}.
+Especially in periods of [high uncertainty]{.hi-red}, fiscal policy may reintroduce [stability]{.note} to economic activity and employment.
 
 . . .
 
 <br>
 
-> “*It provide(s) a better guide to monetary policy than the other indices, since it measures the more persistent underlying inflation rather than transitory influences on the price level*.”
+[Fiscal policy]{.hi-blue} can be implemented in [several]{.note} ways, namely:
 
-(Ben Bernanke, former chair of the U.S. Federal Reserve)
-
-. . .
-
-<br>
-
-&#128279; [[The latest numbers]{.link}](https://www.bls.gov/cpi/latest-numbers.htm)
-
-
-
-
-## Measuring inflation
-
-Another measure of inflation policymakers keep a close eye on is the [Personal Consumption Expenditures Price Index]{.note} (PCE).
-
-. . .
-
-<br>
-
-The [PCE]{.hi-purple} has a [broader]{.note} scope than the CPI:
-
-  - Also includes [rural]{.note} consumers, as well as expenditures made on consumers' [behalf.]{.note}
+  - Raising/lowering [government spending]{.note} (*G*);
+  - Raising/lowering [taxes]{.note} (*T*);
+  - Raising/lowering [transfer payments]{.note} (*TR*).
   
-      - Health insurance, Medicare, and Medicaid, for instance.
-      
+## When governments step in
+
+[[**Government expenditures (G)**]{.note}]{.bg-grey}
+
+  - Infrastructure;
+  - Updating electrical grid;
+  - Renewable energy research.
+
+. . .
+
+
+[[**Taxes (T)**]{.note}]{.bg-grey}
+
+  - Tax cuts/increases to households and businesses.
+
+. . .
+
+
+[[**Transfer payments (TR)**]{.note}]{.bg-grey}
+
+  - Unemployment benefits;
+  - Food stamps;
+  - Social security. 
+
+
+## When governments step in
+
+<br>
+
+While [government spending]{.hi} (*G*) [directly]{.note} affects the economy, [tax]{.hi-pink} changes (*T*) and [transfer]{.hi-pink} payments (*TR*) have an [indirect]{.note} effect in the economy.
+
 . . .
 
 <br>
 
-&#128279; [[The latest numbers]{.link}](https://www.bea.gov/data/personal-consumption-expenditures-price-index)
+  - This happens because events such as tax cuts or transfer payments are [not]{.hi-slate} expenditures [per se]{.note}.
 
 
-## Measuring inflation
+
+## When governments step in
+
+There are [two]{.hi-red} types of fiscal policy:
+
+. . .
+
+  - [Expansionary]{.note};
+  
+  - [Contractionary.]{.note}
+
+. . .
+
+While [expansionary]{.note} fiscal policy aims to [stimulate]{.hi-green} the economy, [contractionary]{.note} policies lead to [lowering]{.hi-orange} the level of economic activity.
+
+. . .
+
+<br>
+
+  - [Expansionary fiscal policies]{.note}: increases in government expenditures and transfer payments, tax reductions.
+  
+  - [Contractionary fiscal policies]{.note}: reductions in government expenditures and transfer payments, tax raises.
+
+# The government budget {background-color="#62259D"}
+
+## The government budget
+
+<br>
+
+Since fiscal policy involves changes in a government's [budget]{.hi}, the latter can be defined as:
 
 <br><br><br>
 
-&#128279; [[Inflation over time]{.link}](https://fred.stlouisfed.org/series/PCEPI)
+$$
+\text{Government budget} = \text{Taxes} - (\text{Government expenditures} + \text{Transfer payments})
+$$
 
 
 
-# Next time: Inflation & other aggregates {background-color="#62259D"}
+  
+## The government budget
+
+<br>
+
+Since fiscal policy involves changes in a government's [budget]{.hi}, the latter can be defined as:
+
+<br><br>
+
+$$
+\text{Government budget} = \underbrace{\text{Taxes}}_{\text{Revenue}} - \underbrace{(\text{Government expenditures} + \text{Transfer payments})}_{\text{Outlays}}
+$$
+
+. . .
+
+<br><br>
+
+  - When a government's revenues are [greater]{.hi-pink} than its outlays, it has a budget [surplus]{.note}.
+  - When a government's revenues are [lower]{.hi-green} than its outlays, it has a budget [deficit]{.note}.
+
+
+## The government budget
+
+<br><br><br>
+
+- &#128279; [[U.S. Government budget]{.link}](https://fred.stlouisfed.org/seriesBeta/M318501Q027NBEA)
+
+<br>
+
+- &#128279; [[U.S. Government budget as a percentage of GDP]{.link}](https://fred.stlouisfed.org/seriesBeta/FYFSGDA188S)
+
+
+
+## The government budget
+
+When [revenues]{.hi-orange} (i.e., taxes) are not sufficient to [cover]{.hi-green} outlays, the government [borrows]{.note} to cover the difference.
+
+. . .
+
+[Q:]{.note} But how do governments [finance]{.note} their debt?
+  
+. . .
+
+<br>
+
+[A:]{.note} Through the sale of [government bonds]{.hi-slate}. (in the US, treasury bonds... bought by firms, households, foreign governments)
+  
+. . .
+
+> A [government bond]{.hi-blue} is an interest-bearing [security]{.note} constituting a promise to pay at a specified future time.
+
+
+
+## The government budget
+
+
+
+<br><br><br>
+
+- &#128279; [[Different U.S. Government bonds]{.link}](https://treasurydirect.gov/marketable-securities/treasury-bonds/)
+
+
+## The government budget
+
+![](budget.png){fig-align="center" width="500" height="650"}
+
+# Fiscal policy in practice {background-color="#62259D"}
+
+## Fiscal policy in practice
+
+<br>
+
+- &#128279; [[American Recovery and Reinvestment Act (ARRA, 2009)]{.link}](https://www.govinfo.gov/content/pkg/BILLS-111hr1enr/pdf/BILLS-111hr1enr.pdf)
+
+- &#128279; [[Tax Cuts and Jobs Act (TCJA, 2017)]{.link}](https://www.govinfo.gov/content/pkg/PLAW-115publ97/pdf/PLAW-115publ97.pdf)
+
+- &#128279; [[Coronavirus Aid, Relief, and Economic Security (CARES, 2020)]{.link}](https://www.govinfo.gov/content/pkg/COMPS-15754/pdf/COMPS-15754.pdf)
+
+# Next time: Fiscal policy & reality {background-color="#62259D"}
