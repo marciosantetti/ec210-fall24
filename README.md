@@ -108,6 +108,13 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
 <br>
 
+**013: Governments & fiscal policy**
+
+  - Slides: [`html`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/005-govt/005-govt-1.html) | [`pdf`](https://rawcdn.githack.com/marciosantetti/ec210-fall24/refs/heads/main/lectures/005-govt/005-govt-1.pdf)
+
+
+<br>
+
 ## Assignments
 
 <br>
